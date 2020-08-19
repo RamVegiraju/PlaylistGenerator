@@ -1,0 +1,163 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,Genre/Mood,Language,release_year
+0,Can't Fight This Feeling,Wheels Are Turnin',REO Speedwagon,1984-11-05,294773,74,0.408,0.155,0.408,0.48,1.82e-05,0.0877,-11.017,0.0266,156.344,4,romantic,English,1984
+1,Forever Young - 2008 Remaster,The Definitive Rod Stewart,Rod Stewart,2008-11-17,245693,40,0.61,0.206,0.61,0.759,0.00823,0.205,-8.959,0.0296,102.016,4,romantic,English,2008
+2,Sweet Dreams (Are Made of This) - Remastered,Sweet Dreams (Are Made Of This),Eurythmics,1983-01-04,216933,81,0.692,0.225,0.692,0.711,0.0,0.12,-7.498,0.0317,125.135,4,romantic,English,1983
+3,True Colors,True Colors,Cyndi Lauper,1986-10-14,226066,71,0.386,0.792,0.386,0.145,0.000196,0.1,-16.94,0.0362,171.63,4,romantic,English,1986
+4,We Belong,Tropico,Pat Benatar,1984-01-01,221133,67,0.706,0.528,0.706,0.322,2.37e-06,0.576,-14.108,0.0467,135.154,4,romantic,English,1984
+5,Total Eclipse of the Heart,The Very Best Of Bonnie Tyler,Bonnie Tyler,1999-02-08,269786,36,0.435,0.195,0.435,0.658,0.0,0.102,-8.179,0.0661,130.276,4,romantic,English,1999
+6,Time After Time,She's So Unusual,Cyndi Lauper,1983-01-01,241333,0,0.726,0.487,0.726,0.449,1.34e-06,0.0824,-9.206,0.0286,130.388,4,romantic,English,1983
+7,Bleeding Love,Spirit,Leona Lewis,2007-01-01,262664,69,0.635,0.192,0.635,0.647,0.0,0.154,-5.865,0.0351,104.054,4,romantic,English,2007
+8,"It Must Have Been Love - From the Film ""Pretty Woman""",A Collection of Roxette Hits! Their 20 Greatest Songs!,Roxette,2006-10-18,258786,62,0.52,0.34,0.52,0.652,5.49e-05,0.256,-6.655,0.0274,80.609,4,romantic,English,2006
+9,Heaven,Reckless,Bryan Adams,1984-11-01,243666,0,0.34,0.0596,0.34,0.412,0.0,0.117,-13.727,0.0268,69.857,4,romantic,English,1984
+10,(Everything I Do) I Do It For You,Waking Up The Neighbours,Bryan Adams,1991-09-24,394133,65,0.526,0.0775,0.526,0.365,1.35e-05,0.0618,-12.605,0.028,131.253,4,romantic,English,1991
+11,I Can't Help Falling In Love With You,The Greatest Love Songs Vol. 1 (Collection),Generation Love,2008-01-01,220666,9,0.47,0.00182,0.47,0.879,0.00306,0.0965,-6.341,0.0375,173.569,4,romantic,English,2008
+12,I Will Always Love You,Romantic Music Vol. 1,Romantic Time,2009-01-01,272026,0,0.275,0.49,0.275,0.479,9.37e-05,0.23,-5.199,0.0305,132.362,4,romantic,English,2009
+13,When a Man Loves a Woman,The Essential Michael Bolton,Michael Bolton,2006-09-04,230493,55,0.577,0.2,0.577,0.42,0.0,0.0933,-8.22,0.0256,82.317,3,romantic,English,2006
+14,"Beauty and the Beast - from the Soundtrack ""Beauty and the Beast""",The Essential Celine Dion,Céline Dion,2008-01-01,245253,0,0.476,0.479,0.476,0.41,5.46e-05,0.141,-9.76,0.0317,77.341,4,romantic,English,2008
+15,I Want to Know What Love Is - 2008 Remaster,No End in Sight: The Very Best of Foreigner,Foreigner,2008-07-08,295480,63,0.48,0.17,0.48,0.529,4.27e-06,0.257,-7.825,0.0275,81.527,4,romantic,English,2008
+16,Take On Me,Rhino Hi-Five: A-Ha,a-ha,2005-07-19,227146,0,0.42,0.00582,0.42,0.955,0.000511,0.0931,-3.92,0.178,169.209,4,romantic,English,2005
+17,The A Team,+,Ed Sheeran,2011-09-09,258373,76,0.642,0.669,0.642,0.289,0.0,0.18,-9.918,0.0367,84.996,4,romantic,English,2011
+18,When You Say Nothing at All,Greatest Hits,Keith Whitley,1990-08-07,222493,55,0.673,0.721,0.673,0.346,4.48e-06,0.0475,-12.803,0.0245,80.012,4,romantic,English,1990
+19,"Love Me Like You Do - From ""Fifty Shades Of Grey""","Love Me Like You Do (From ""Fifty Shades Of Grey"")",Ellie Goulding,2015-01-07,252538,0,0.245,0.295,0.245,0.611,0.0,0.124,-6.676,0.051,189.194,4,romantic,English,2015
+20,Chasing Cars,Chasing Cars,Snow Patrol,2006-01-01,266346,65,0.556,0.214,0.556,0.595,8.33e-05,0.125,-4.51,0.0275,104.001,4,romantic,English,2006
+21,Thinking out Loud,x (Deluxe Edition),Ed Sheeran,2014-06-21,281560,83,0.781,0.474,0.781,0.445,0.0,0.184,-6.061,0.0295,78.998,4,romantic,English,2014
+22,Photograph,x (Deluxe Edition),Ed Sheeran,2014-06-21,258986,84,0.614,0.607,0.614,0.379,0.000464,0.0986,-10.48,0.0476,107.989,4,romantic,English,2014
+23,Stitches,Handwritten,Shawn Mendes,2015-04-14,206880,77,0.746,0.0152,0.746,0.754,0.0,0.0486,-6.684,0.0676,149.882,4,romantic,English,2015
+24,Like I'm Gonna Lose You (feat. John Legend),Title (Deluxe),Meghan Trainor,2015-01-09,225053,79,0.63,0.4,0.63,0.53,0.0,0.177,-7.259,0.0434,108.038,3,romantic,English,2015
+25,Beautiful Soul,Beautiful Soul,Jesse McCartney,2004-01-01,214226,73,0.66,0.0759,0.66,0.666,0.0,0.0268,-4.342,0.0472,89.975,4,romantic,English,2004
+26,Beautiful,Stripped,Christina Aguilera,2002-07-19,238560,72,0.456,0.578,0.456,0.573,3.05e-06,0.114,-3.866,0.0275,76.19,4,romantic,English,2002
+27,"Endless Love - From ""The Endless Love"" Soundtrack",To Love Again (Expanded Edition),Diana Ross,1981-02-17,265986,0,0.21,0.657,0.21,0.336,0.000129,0.134,-9.28,0.0292,186.773,4,romantic,English,1981
+28,Eternal Flame,The Essential Bangles,The Bangles,2004-01-01,238026,70,0.526,0.525,0.526,0.358,0.0,0.0942,-7.239,0.0243,78.988,3,romantic,English,2004
+29,Take My Breath Away,Count Three & Pray,Berlin,1986-01-01,252000,0,0.474,0.218,0.474,0.583,0.0,0.521,-13.147,0.0271,96.144,4,romantic,English,1986
+30,Up Where We Belong,The Best of Joe Cocker,Joe Cocker,1993-03-01,233240,46,0.573,0.597,0.573,0.429,8.18e-05,0.0839,-8.68,0.0294,139.097,4,romantic,English,1993
+31,Greatest Love of All,Whitney Houston,Whitney Houston,1985-02-14,291400,68,0.502,0.484,0.502,0.305,3.55e-06,0.117,-16.011,0.0339,131.242,4,romantic,English,1985
+32,If You Leave Me Now,Chicago X,Chicago,1976-06-14,235373,75,0.429,0.0193,0.429,0.564,0.000828,0.128,-6.784,0.0268,104.212,4,romantic,English,1976
+33,Careless Whisper,Ladies And Gentlemen... The Best Of George Michael,George Michael,1998-11-09,300106,76,0.574,0.128,0.574,0.629,0.0,0.271,-8.815,0.0363,153.119,4,romantic,English,1998
+34,"(I've Had) The Time of My Life - From ""Dirty Dancing"" Soundtrack",Platinum & Gold Collection,Jennifer Warnes,2004-07-02,289066,71,0.7,0.0874,0.7,0.781,0.00342,0.059,-8.255,0.0507,108.695,4,romantic,English,2004
+35,Mercy,Illuminate (Deluxe),Shawn Mendes,2016-09-23,208733,0,0.568,0.133,0.568,0.686,0.0,0.11,-4.901,0.0903,148.294,4,romantic,English,2016
+36,Say You Won't Let Go,Say You Won't Let Go,James Arthur,2016-09-09,211240,74,0.4,0.693,0.4,0.564,0.0,0.0863,-7.444,0.0523,99.269,4,romantic,English,2016
+37,Sometimes,...Baby One More Time (Digital Deluxe Version),Britney Spears,1999-01-12,245066,68,0.745,0.42,0.745,0.742,0.0,0.102,-5.693,0.0259,95.996,4,romantic,English,1999
+38,Superman (It's Not Easy),America Town,Five For Fighting,2000-09-26,221693,70,0.382,0.0733,0.382,0.416,0.0,0.0719,-9.303,0.0302,102.089,4,romantic,English,2000
+39,L-O-V-E - Remastered,The Unforgettable Nat King Cole (Remastered),Nat King Cole,2000-01-01,153466,0,0.574,0.694,0.574,0.187,0.0,0.0792,-14.762,0.0738,77.859,4,romantic,English,2000
+40,All Out of Love,Ultimate Air Supply,Air Supply,2003-05-29,241373,64,0.503,0.291,0.503,0.47,0.0,0.396,-8.006,0.0257,108.486,4,romantic,English,2003
+41,How Deep Is Your Love,Tales From The Brothers Gibb,Bee Gees,1990-01-01,241360,0,0.624,0.268,0.624,0.19,1.41e-06,0.231,-17.547,0.0288,105.021,4,romantic,English,1990
+42,Lost In Love,Ultimate Air Supply,Air Supply,2003-05-29,231133,57,0.59,0.37,0.59,0.589,1.22e-06,0.162,-9.859,0.03,114.471,4,romantic,English,2003
+43,Unchained Melody,The Very Best Of The Righteous Brothers - Unchained Melody,The Righteous Brothers,1990-01-01,216266,65,0.361,0.563,0.361,0.219,0.0,0.558,-16.553,0.0285,98.532,3,romantic,English,1990
+44,You're Still The One,Come On Over,Shania Twain,1997-01-01,212560,0,0.556,0.476,0.556,0.513,0.0,0.237,-7.201,0.029,133.803,4,romantic,English,1997
+45,Your Song,Rocket Man (Deluxe Edition),Elton John,2007-03-26,240773,0,0.552,0.801,0.552,0.308,1.94e-06,0.104,-11.058,0.0311,128.004,4,romantic,English,2007
+46,More Than Words,90s Love Songs,Various Artists,2007-01-01,343920,44,0.614,0.609,0.614,0.128,5.27e-06,0.101,-15.139,0.0288,91.116,4,romantic,English,2007
+47,All of Me,Love In The Future (Expanded Edition),John Legend,2013-08-30,269560,85,0.422,0.922,0.422,0.264,0.0,0.132,-7.064,0.0322,119.93,4,romantic,English,2013
+48,Just The Way You Are,Just The Way You Are,Bruno Mars,2010-07-20,220733,0,0.637,0.0151,0.637,0.843,0.0,0.0876,-5.413,0.0432,109.012,4,romantic,English,2010
+49,Halo,I AM...SASHA FIERCE,Beyoncé,2008-11-17,261640,43,0.508,0.272,0.508,0.72,0.0,0.0563,-5.908,0.0628,79.983,4,romantic,English,2008
+50,Fallin',Songs In A Minor,Alicia Keys,2001-06-05,210200,2,0.653,0.263,0.653,0.609,0.00101,0.233,-7.519,0.037,95.982,3,romantic,English,2001
+51,Yellow,Parachutes,Coldplay,2000-07-10,266773,82,0.429,0.00239,0.429,0.661,0.00013,0.234,-7.227,0.0281,173.365,4,romantic,English,2000
+52,Love On Top,4,Beyoncé,2011-01-01,267413,45,0.652,0.0849,0.652,0.748,0.0,0.604,-5.242,0.0887,94.1,4,romantic,English,2011
+53,Hero,Escape,Enrique Iglesias,2001-01-01,264240,0,0.555,0.147,0.555,0.638,2.31e-05,0.107,-5.555,0.0418,151.933,4,romantic,English,2001
+54,Love,Love,Lana Del Rey,2017-02-18,278360,0,0.322,0.455,0.322,0.352,0.00333,0.11,-10.986,0.0309,70.429,3,romantic,English,2017
+55,All I Ask Of You - Edit,Highlights From The Phantom Of The Opera,Andrew Lloyd Webber,1987-01-01,244306,0,0.159,0.723,0.159,0.171,0.000249,0.109,-18.455,0.0428,82.454,4,romantic,English,1987
+56,My Girl,The Temptations Sing Smokey,The Temptations,1965-01-01,165000,9,0.572,0.635,0.572,0.418,0.0,0.0961,-10.738,0.0349,104.566,4,romantic,English,1965
+57,Because of You,Breakaway,Kelly Clarkson,2004-01-17,219493,72,0.583,0.254,0.583,0.584,0.0,0.123,-5.362,0.0314,140.039,4,romantic,English,2004
+58,Make You Feel My Love,19,Adele,2008-01-28,212040,76,0.559,0.907,0.559,0.172,0.000383,0.105,-10.636,0.0291,77.025,4,romantic,English,2008
+59,Total Eclipse of the Heart,Ravishing - The Best Of,Bonnie Tyler,2009-03-30,270546,24,0.428,0.205,0.428,0.644,0.0,0.119,-7.582,0.0628,129.432,4,romantic,English,2009
+60,Kiss from a Rose,Seal,Seal,1994-05-31,288426,73,0.583,0.684,0.583,0.532,0.0,0.306,-7.11,0.0309,131.741,3,romantic,English,1994
+61,A Thousand Miles,Best Of,Vanessa Carlton,2011-01-01,237440,63,0.488,0.273,0.488,0.833,0.0,0.192,-3.876,0.0387,94.841,4,romantic,English,2011
+62,I Say a Little Prayer,The Queen Of Soul,Aretha Franklin,2014-02-03,212106,46,0.601,0.51,0.601,0.419,0.000732,0.141,-10.59,0.0325,133.205,4,romantic,English,2014
+63,Angels - 2004 Mix,In And Out Of Consciousness: Greatest Hits 1990 - 2010,Robbie Williams,2010-01-01,267413,57,0.393,0.142,0.393,0.601,1.88e-05,0.13,-6.075,0.0298,150.039,4,romantic,English,2010
+64,I Got You Babe,The Beat Goes On: Best Of,Sonny & Cher,1991-11-05,193840,59,0.621,0.246,0.621,0.708,2e-06,0.143,-9.057,0.0259,110.533,3,romantic,English,1991
+65,With Or Without You,The Best of 1980-1990 & B-Sides,U2,1998-10-01,295200,0,0.546,0.000128,0.546,0.485,0.318,0.0939,-9.424,0.027,109.913,4,romantic,English,1998
+66,L-O-V-E - Remastered,The Unforgettable Nat King Cole (Remastered),Nat King Cole,2000-01-01,153466,0,0.574,0.694,0.574,0.187,0.0,0.0792,-14.762,0.0738,77.859,4,romantic,English,2000
+67,The Way You Look Tonight,"Sings The American Songbook, Vol. 1",Tony Bennett,2007-09-25,203293,0,0.363,0.949,0.363,0.0882,0.000303,0.112,-18.991,0.0375,88.162,4,romantic,English,2007
+68,"Can You Feel the Love Tonight - End Title/ From ""The Lion King""/Soundtrack Version",The Lion King,Various Artists,1994-01-01,241013,67,0.309,0.87,0.309,0.181,0.000279,0.118,-17.022,0.0337,124.711,4,romantic,English,1994
+69,I'm Yours,We Sing. We Dance. We Steal Things.,Jason Mraz,2008-05-12,242186,83,0.686,0.595,0.686,0.457,0.0,0.105,-8.322,0.0468,150.953,4,romantic,English,2008
+70,Dream A Little Dream Of Me,Creeque Alley - The History Of The Mamas And The Papas,The Mamas & The Papas,1991-01-01,193333,0,0.451,0.817,0.451,0.24,3.87e-06,0.0569,-16.617,0.0553,132.822,1,romantic,English,1991
+71,I'll Make Love To You,The Best Of Boyz II Men 20th Century Masters The Millennium Collection,Boyz II Men,2003-10-07,235853,36,0.56,0.0927,0.56,0.494,0.0,0.0895,-7.95,0.0244,142.509,3,romantic,English,2003
+72,The Way You Look Tonight,Michael Bublé,Michael Bublé,2003-01-01,279626,63,0.642,0.549,0.642,0.483,0.000282,0.251,-10.486,0.028,109.995,4,romantic,English,2003
+73,Hello,True Mellow 3 CD Set,Various Artists,2006-01-01,248733,0,0.547,0.743,0.547,0.272,1.61e-06,0.235,-12.995,0.0355,62.092,4,romantic,English,2006
+74,Somewhere Only We Know,Somewhere Only We Know,Lily Allen,2013-11-10,208154,62,0.314,0.935,0.314,0.286,0.0258,0.0999,-10.191,0.035,172.021,4,romantic,English,2013
+75,The Scientist,A Rush of Blood to the Head,Coldplay,2002-08-08,309600,84,0.56,0.727,0.56,0.442,1.71e-05,0.11,-7.224,0.0243,146.448,4,romantic,English,2002
+76,Marry You,Doo-Wops & Hooligans,Bruno Mars,2010-10-05,230120,73,0.62,0.332,0.62,0.832,0.0,0.104,-4.848,0.036,144.926,4,romantic,English,2010
+77,Lucky,We Sing. We Dance. We Steal Things.,Jason Mraz,2008-05-12,191360,76,0.623,0.296,0.623,0.417,0.0,0.135,-8.699,0.0354,130.032,4,romantic,English,2008
+78,Wind Beneath My Wings,Rhino Hi-Five: Bette Midler,Bette Midler,2005-10-18,293853,0,0.51,0.551,0.51,0.458,0.0,0.0853,-7.566,0.0289,123.694,4,romantic,English,2005
+79,You're Beautiful,Back to Bedlam,James Blunt,2005-10-04,209493,66,0.675,0.633,0.675,0.479,1.76e-05,0.088,-9.87,0.0278,81.998,4,romantic,English,2005
+80,Isn't She Lovely,Songs In The Key Of Life (Reissue),Stevie Wonder,1976-09-28,394266,0,0.481,0.182,0.481,0.826,0.00352,0.324,-6.974,0.0851,118.679,4,romantic,English,1976
+81,Mirrors,The 20/20 Experience (Deluxe Version),Justin Timberlake,2013-03-15,484146,77,0.574,0.234,0.574,0.512,0.0,0.0946,-6.664,0.0503,76.899,4,romantic,English,2013
+82,"Accidentally In Love - From ""Shrek 2"" Soundtrack",Films About Ghosts: The Best Of...,Counting Crows,2003-01-01,188386,54,0.555,0.0484,0.555,0.926,7.67e-06,0.171,-3.613,0.0363,138.017,4,romantic,English,2003
+83,Wouldn't It Be Nice - Remastered,The Beach Boys Love Songs,The Beach Boys,2006-01-01,145106,68,0.429,0.536,0.429,0.543,2.54e-05,0.125,-9.139,0.0347,122.619,4,romantic,English,2006
+84,"My Heart Will Go On - Love Theme from ""Titanic""",Let's Talk About Love,Céline Dion,1997-10-24,280000,9,0.428,0.732,0.428,0.276,5.33e-06,0.117,-11.729,0.0312,99.195,1,romantic,English,1997
+85,Fast Car,Tracy Chapman,Tracy Chapman,1988-04-05,296800,79,0.711,0.313,0.711,0.292,0.0,0.131,-15.523,0.037,103.951,4,romantic,English,1988
+86,Dream A Little Dream Of Me,Ella & Friends,Ella Fitzgerald,1996-01-01,187693,1,0.549,0.918,0.549,0.169,0.0,0.159,-13.433,0.0779,79.318,4,romantic,English,1996
+87,Secret Love Song (feat. Jason Derulo),Get Weird (Deluxe),Little Mix,2015-11-06,249813,77,0.534,0.259,0.534,0.642,0.0,0.29,-3.971,0.0504,92.963,4,romantic,English,2015
+88,No One,As I Am,Alicia Keys,2007-11-09,253813,3,0.649,0.03,0.649,0.552,6.47e-06,0.111,-5.419,0.0292,89.969,4,romantic,English,2007
+89,Stay,Unapologetic (Deluxe),Rihanna,2012-12-11,240706,75,0.621,0.945,0.621,0.31,6.12e-05,0.117,-10.164,0.0283,111.893,4,romantic,English,2012
+90,Fly Me To The Moon - Remastered,Nothing But The Best (Remastered),Frank Sinatra,2008-01-01,147520,57,0.591,0.549,0.591,0.298,2.22e-06,0.0797,-12.269,0.06,119.954,4,romantic,English,2008
+91,Feeling Good,It's Time,Michael Bublé,2005-02-08,237333,71,0.535,0.533,0.535,0.548,1.48e-06,0.123,-6.51,0.037,115.144,3,romantic,English,2005
+92,We Don't Have To Take Our Clothes Off,Feline (Deluxe),Ella Eyre,2015-08-14,236293,0,0.565,0.956,0.565,0.176,5.47e-06,0.108,-9.254,0.0419,97.931,3,romantic,English,2015
+93,Bubbly,Coco,Colbie Caillat,2007-01-01,196226,73,0.688,0.594,0.688,0.477,0.0,0.115,-6.684,0.036,127.866,4,romantic,English,2007
+94,All You Need Is Love - Remastered 2015,1 (Remastered),The Beatles,2000-11-13,227760,0,0.397,0.437,0.397,0.625,5.47e-06,0.263,-5.829,0.0347,104.54,4,romantic,English,2000
+95,"I Wanna Be Loved by You (From ""Some Like It Hot"")",Sus Años Dorados en España,Marilyn Monroe,2014-01-01,177388,0,0.475,0.707,0.475,0.468,0.000195,0.0739,-5.766,0.0373,126.737,4,romantic,English,2014
+96,Can't Help Falling in Love,Better,Haley Reinhart,2016-04-29,173174,0,0.41,0.947,0.41,0.0485,0.0,0.108,-13.918,0.038,137.97,4,romantic,English,2016
+97,I Wanna Dance with Somebody (Who Loves Me),Whitney,Whitney Houston,1987-06-02,291293,82,0.709,0.207,0.709,0.824,0.000307,0.0888,-8.824,0.0453,118.814,4,romantic,English,1987
+98,I Will Always Love You,The Bodyguard - Original Soundtrack Album,Whitney Houston,1992-11-17,271093,77,0.306,0.844,0.306,0.214,5.3e-06,0.0839,-12.518,0.0356,66.98,4,romantic,English,1992
+99,I Have Nothing,The Bodyguard - Original Soundtrack Album,Whitney Houston,1992-11-17,289160,74,0.54,0.576,0.54,0.401,0.0,0.164,-10.499,0.0364,152.974,3,romantic,English,1992
+0,Mehrama - Extended,Love Aaj Kal (Original Motion Picture Soundtrack),Pritam,2020-02-14,337749,53,0.55,0.862,0.55,0.632,0.00712,0.0931,-8.462,0.031,107.919,4,romantic,Hindi,2020
+1,"Malang (Title Track) [From ""Malang - Unleash The Madness""]","Malang (Title Track) [From ""Malang - Unleash The Madness""]",Ved Sharma,2020-01-16,287374,71,0.384,0.329,0.384,0.728,1.85e-05,0.329,-6.503,0.0623,156.396,4,romantic,Hindi,2020
+2,Makhna,"Makhna (From ""Drive"")",Tanishk Bagchi,2019-10-03,183000,71,0.696,0.167,0.696,0.704,0.0,0.155,-7.876,0.0423,124.972,4,romantic,Hindi,2019
+3,Shayad - Reprise,Love Aaj Kal (Original Motion Picture Soundtrack),Pritam,2020-02-14,245735,58,0.432,0.904,0.432,0.536,0.000626,0.102,-7.34,0.032,135.837,4,romantic,Hindi,2020
+4,"Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")","Tu Hi Yaar Mera (From ""Pati Patni Aur Woh"")",Rochak Kohli,2019-12-02,200991,69,0.718,0.585,0.718,0.382,0.0,0.128,-8.237,0.0466,87.029,4,romantic,Hindi,2019
+5,Khairiyat,Chhichhore,Pritam,2019-08-31,280281,73,0.524,0.696,0.524,0.48,0.0,0.142,-9.017,0.0426,124.879,4,romantic,Hindi,2019
+6,"Kinna Sona (From ""Marjaavaan"")","Kinna Sona (From ""Marjaavaan"")",Meet Bros.,2019-11-06,273925,60,0.533,0.283,0.533,0.723,0.0,0.0678,-4.301,0.0614,97.848,4,romantic,Hindi,2019
+7,Ik Mulaqaat,Dream Girl,Meet Bros.,2019-09-06,247812,62,0.634,0.361,0.634,0.648,0.0,0.619,-6.781,0.0412,95.989,4,romantic,Hindi,2019
+8,Bhula Diya,Bhula Diya - Single,Darshan Raval,2019-02-07,217941,23,0.331,0.556,0.331,0.465,0.0,0.356,-5.954,0.0397,136.193,4,romantic,Hindi,2019
+9,Humnava Mere,Humnava Mere,Jubin Nautiyal,2018-05-23,328992,59,0.401,0.47,0.401,0.553,2.96e-06,0.124,-8.263,0.0337,79.144,4,romantic,Hindi,2018
+10,Yeh Dooriyan,Love Aaj Kal (Original Motion Picture Soundtrack),Pritam,2020-02-14,241636,60,0.615,0.695,0.615,0.568,0.054,0.0964,-7.839,0.0304,109.987,4,romantic,Hindi,2020
+11,Pal Pal Dil Ke Paas- Title Track,"Pal Pal Dil Ke Paas- Title Track (From ""Pal Pal Dil Ke Paas"")",Arijit Singh,2019-08-27,254516,67,0.56,0.592,0.56,0.512,0.0,0.056,-7.185,0.0333,123.991,4,romantic,Hindi,2019
+12,Tujhe Kitna Chahein Aur (Film Version),Kabir Singh,Various Artists,2019-06-14,276244,63,0.36,0.603,0.36,0.25,0.0,0.0915,-9.506,0.0341,145.045,4,romantic,Hindi,2019
+13,Ik Vaari Aa (Jubin Version),Raabta,Various Artists,2017-06-03,274475,49,0.511,0.234,0.511,0.829,0.0,0.338,-5.661,0.0386,127.893,4,romantic,Hindi,2017
+14,Duniyaa,Luka Chuppi,Various Artists,2019-02-22,222500,52,0.435,0.699,0.435,0.658,0.0,0.125,-5.949,0.0368,77.17,4,romantic,Hindi,2019
+15,Enna Sona,OK Jaanu (Original Motion Picture Soundtrack),A.R. Rahman,2017-01-04,213632,63,0.717,0.635,0.717,0.416,1.43e-06,0.0976,-9.875,0.0303,100.026,4,romantic,Hindi,2017
+16,Ve Maahi,Kesari,Various Artists,2019-03-18,223999,66,0.65,0.405,0.65,0.551,0.0,0.219,-6.906,0.0274,102.934,4,romantic,Hindi,2019
+17,Bolna,Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack),Various Artists,2016-03-04,212832,49,0.488,0.598,0.488,0.403,4.26e-06,0.434,-7.004,0.0272,131.496,3,romantic,Hindi,2016
+18,"Tera Ban Jaunga Reprise (From ""T-Series Acoustics"")","Tera Ban Jaunga Reprise (From ""T-Series Acoustics"")",Akhil Sachdeva,2019-08-26,223555,48,0.51,0.786,0.51,0.479,0.0014,0.159,-7.52,0.0257,93.992,4,romantic,Hindi,2019
+19,Nazm Nazm,Bareilly Ki Barfi,Various Artists,2017-08-17,226941,61,0.62,0.497,0.62,0.627,0.0,0.133,-6.187,0.0307,82.008,4,romantic,Hindi,2017
+20,Humsafar,Badrinath Ki Dulhania,Various Artists,2017-02-14,268463,59,0.319,0.719,0.319,0.552,0.0,0.144,-6.401,0.0307,93.991,4,romantic,Hindi,2017
+21,"Samjhawan (Unplugged by Alia Bhatt) [From ""Humpty Sharma Ki Dulhania""]","Samjhawan (Unplugged by Alia Bhatt) [From ""Humpty Sharma Ki Dulhania""]",Jawad Ahmad,2014-06-19,215611,53,0.643,0.729,0.643,0.256,1.02e-06,0.0994,-9.758,0.0252,94.999,4,romantic,Hindi,2014
+22,Aaya Na Tu,Aaya Na Tu,Arjun Kanungo,2018-06-20,210000,60,0.665,0.825,0.665,0.539,5.85e-06,0.121,-7.213,0.0474,110.101,4,romantic,Hindi,2018
+23,Teri Mitti - Female Version (Kesari),Teri Mitti - Female Version (Kesari),Arko,2019-04-15,217000,57,0.584,0.945,0.584,0.188,0.0,0.0871,-10.067,0.0314,144.068,4,romantic,Hindi,2019
+24,Galliyan (Unplugged),Ek Villain,Various Artists,2014-05-28,254750,49,0.378,0.899,0.378,0.393,0.0,0.102,-7.495,0.0275,169.936,4,romantic,Hindi,2014
+25,Yahin Hoon Main,Yahin Hoon Main,Ayushmann Khurrana,2015-12-11,238120,46,0.633,0.0839,0.633,0.558,1.1e-06,0.0982,-6.572,0.0275,110.012,4,romantic,Hindi,2015
+26,"Chale Aana (From ""De De Pyaar De"")","Chale Aana (From ""De De Pyaar De"")",Amaal Mallik,2019-05-02,271023,61,0.368,0.309,0.368,0.587,0.0,0.149,-6.676,0.0378,143.687,4,romantic,Hindi,2019
+27,Ishq Di Baajiyaan,Soorma (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2018-07-03,287134,48,0.722,0.0233,0.722,0.609,0.000247,0.113,-7.218,0.0473,154.967,4,romantic,Hindi,2018
+28,Banjaara,Ek Villain,Various Artists,2014-05-28,336567,53,0.657,0.713,0.657,0.489,0.0,0.124,-6.829,0.0306,116.0,4,romantic,Hindi,2014
+29,"Tujhe Kitna Chahne Lage (From ""Kabir Singh"")","Tujhe Kitna Chahne Lage (From ""Kabir Singh"")",Arijit Singh,2019-05-31,284779,68,0.427,0.736,0.427,0.396,0.0,0.11,-7.556,0.0366,70.368,4,romantic,Hindi,2019
+30,Naino Ne Baandhi,Gold,Arko,2018-08-20,241894,52,0.294,0.548,0.294,0.705,0.0,0.113,-7.302,0.0488,81.463,4,romantic,Hindi,2018
+31,Soch Na Sake,Airlift,Amaal Mallik,2015-12-17,281322,62,0.505,0.597,0.505,0.667,0.0,0.213,-5.797,0.0323,151.728,4,romantic,Hindi,2015
+32,Sab Tera Unplugged,Amaal Mallik &amp; Armaan Malik - Mtv Unplugged Season 7,Amaal Mallik,2018-02-23,282871,41,0.624,0.244,0.624,0.439,0.0,0.785,-11.537,0.0468,80.065,4,romantic,Hindi,2018
+33,Yaad Hai,Aiyaary,Rochak Kohli,2018-02-28,320142,43,0.403,0.93,0.403,0.311,5.37e-05,0.0961,-9.797,0.0299,139.485,3,romantic,Hindi,2018
+34,Hawa Banke,Hawa Banke - Single,Darshan Raval,2019-07-18,171987,3,0.626,0.616,0.626,0.597,0.0,0.298,-6.6,0.0366,90.053,4,romantic,Hindi,2019
+35,Kabira,Yeh Jawaani Hai Deewani,Pritam,2013-03-30,223459,65,0.59,0.481,0.59,0.555,0.0,0.192,-6.852,0.0271,84.032,4,romantic,Hindi,2013
+36,"Mere Sohneya (From ""Kabir Singh"")","Mere Sohneya (From ""Kabir Singh"")",Sachet Tandon,2019-06-06,193355,59,0.376,0.558,0.376,0.643,0.0,0.217,-5.713,0.0411,136.224,5,romantic,Hindi,2019
+37,"Bekhayali (From ""Kabir Singh"")","Bekhayali (From ""Kabir Singh"")",Sachet Tandon,2019-05-24,371790,65,0.308,0.45,0.308,0.585,0.0,0.319,-5.18,0.0428,171.843,3,romantic,Hindi,2019
+38,Tera Ban Jaunga,Kabir Singh,Various Artists,2019-06-14,236436,65,0.605,0.822,0.605,0.53,0.0,0.131,-6.346,0.0246,93.951,4,romantic,Hindi,2019
+39,Subhanallah,Yeh Jawaani Hai Deewani,Pritam,2013-03-30,249707,60,0.302,0.452,0.302,0.494,0.0,0.134,-5.041,0.0451,88.586,4,romantic,Hindi,2013
+40,"Kaise Hua (From ""Kabir Singh"")","Kaise Hua (From ""Kabir Singh"")",Vishal Mishra,2019-06-13,234722,63,0.385,0.452,0.385,0.464,0.0,0.109,-6.975,0.0404,137.839,4,romantic,Hindi,2019
+41,"Pani Da Rang Male (From ""Vicky Donor"")",Vicky Donor,Various Artists,2012-04-04,240786,49,0.679,0.272,0.679,0.622,6.52e-05,0.106,-8.514,0.0328,98.028,4,romantic,Hindi,2012
+42,"Sapna Jahan (From ""Brothers"")","Sapna Jahan (From ""Brothers"")",Ajay-Atul,2015-07-24,341780,52,0.471,0.78,0.471,0.329,0.0021,0.117,-11.958,0.0312,126.107,4,romantic,Hindi,2015
+43,Tum Ho,Rockstar,A.R. Rahman,2011-10-01,316500,59,0.356,0.518,0.356,0.47,1e-05,0.0807,-8.929,0.0278,93.895,4,romantic,Hindi,2011
+44,Kaash Aisa Hota,Kaash Aisa Hota - Single,Darshan Raval,2019-03-21,212800,24,0.395,0.857,0.395,0.393,1.77e-06,0.114,-9.498,0.0317,75.964,4,romantic,Hindi,2019
+45,Lae Dooba,Aiyaary,Rochak Kohli,2018-02-28,229877,60,0.569,0.879,0.569,0.297,0.0,0.0938,-8.639,0.0292,89.96,4,romantic,Hindi,2018
+46,Hasi - Female Version,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Jeet Gannguli,2015-05-21,192186,57,0.52,0.927,0.52,0.485,0.000466,0.159,-6.438,0.0269,143.901,4,romantic,Hindi,2015
+47,"Gazab Ka Hai Din (From ""Dil Juunglee"")","Gazab Ka Hai Din (From ""Dil Juunglee"")",Various Artists,2018-01-27,236325,56,0.325,0.659,0.325,0.421,4.46e-06,0.0825,-8.636,0.0561,170.363,4,romantic,Hindi,2018
+48,"Humdard Acoustic (From ""T-Series Acoustics"")","Humdard Acoustic (From ""T-Series Acoustics"")",Karan Bawa,2017-10-03,180442,37,0.439,0.953,0.439,0.39,0.00025,0.125,-8.108,0.0286,85.675,4,romantic,Hindi,2017
+49,Ishq de Fanniyar - Female,Fukrey Returns,Various Artists,2017-11-15,177893,47,0.523,0.571,0.523,0.43,0.0,0.109,-5.314,0.0297,84.017,4,romantic,Hindi,2017
+50,"Tum Hi Aana (From ""Marjaavaan"")","Tum Hi Aana (From ""Marjaavaan"")",Payal Dev,2019-10-03,249126,68,0.473,0.629,0.473,0.401,1.17e-05,0.154,-7.018,0.0241,90.076,4,romantic,Hindi,2019
+51,Dekhte Dekhte,Batti Gul Meter Chalu,Various Artists,2018-09-08,256271,56,0.799,0.424,0.799,0.828,0.0,0.145,-4.846,0.0782,105.04,4,romantic,Hindi,2018
+52,Baarish Lete Aana,Baarish Lete Aana - Single,Darshan Raval,2018-07-18,213500,21,0.537,0.839,0.537,0.351,0.0,0.108,-8.937,0.0248,67.018,4,romantic,Hindi,2018
+53,Tera Zikr,Tera Zikr,Darshan Raval,2017-11-09,208500,60,0.613,0.823,0.613,0.47,1.87e-06,0.138,-8.441,0.0344,102.944,4,romantic,Hindi,2017
+54,"Tere Bin (From ""Simmba"")","Tere Bin (From ""Simmba"")",Rahat Fateh Ali Khan,2018-12-14,230948,57,0.649,0.268,0.649,0.716,4.51e-06,0.603,-3.936,0.0384,86.949,4,romantic,Hindi,2018
+55,O Saathi,"O Saathi (From ""Baaghi 2"")",Atif Aslam,2018-03-09,251818,63,0.481,0.588,0.481,0.496,0.0,0.132,-7.421,0.0262,89.839,4,romantic,Hindi,2018
+56,Thodi Der,Half Girlfriend,Various Artists,2017-04-30,296377,54,0.485,0.898,0.485,0.456,2.58e-05,0.0835,-6.544,0.0309,90.352,4,romantic,Hindi,2017
+57,Bhula Dunga,Bhula Dunga,Darshan Raval,2020-03-24,197600,61,0.521,0.692,0.521,0.583,6.32e-06,0.198,-7.927,0.0399,155.928,4,romantic,Hindi,2020
+58,Chidiya,Chidiya,Vilen,2019-12-14,253333,71,0.486,0.715,0.486,0.494,0.0,0.109,-8.56,0.0324,179.975,4,romantic,Hindi,2019
+59,"Sanu Ek Pal Chain (From ""Raid"")","Sanu Ek Pal Chain (From ""Raid"")",Rahat Fateh Ali Khan,2018-02-12,210345,51,0.71,0.545,0.71,0.813,1.68e-05,0.105,-6.099,0.0381,139.998,4,romantic,Hindi,2018
+60,Asal Mein,Asal Mein - Single,Darshan Raval,2020-02-18,224240,65,0.656,0.721,0.656,0.551,1.26e-06,0.0947,-6.43,0.0299,114.108,4,romantic,Hindi,2020
+61,Ek Raat,Ek Raat,Vilen,2018-02-10,224040,65,0.645,0.147,0.645,0.534,4.3e-06,0.0858,-5.428,0.0305,90.025,4,romantic,Hindi,2018

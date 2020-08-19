@@ -1,0 +1,201 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,Genre/Mood,Language,release_year
+0,Tu Hi Hain Aashiqui,"Dishkiyaoon (feat. Palak Muchhal, Gayatri Ganjawala, Sneha Khanwalkar, Altamash Faridi) [Original Motion Picture Soundtrack]",Various Artists,2014-03-12,298053,0,0.484,0.537,0.484,0.553,0.0,0.0876,-5.384,0.0277,99.585,4,Hip-Hop,Hindi,2014
+1,Tu Bin Bataye,Rang De Basanti (Original Motion Picture Soundtrack),A.R. Rahman,2005-12-04,357626,43,0.528,0.399,0.528,0.427,0.0188,0.0931,-10.848,0.0325,120.076,4,Hip-Hop,Hindi,2005
+2,"Ajj Din Chadheya (From ""Love Aaj Kal "")",Love Aaj Kal,Pritam,2009-06-27,315013,44,0.585,0.551,0.585,0.687,6.7e-06,0.121,-4.553,0.0724,85.871,4,Hip-Hop,Hindi,2009
+3,"Main Jahaan Rahoon (From ""Namastey London"")",Namastey London,Himesh Reshammiya,2007-01-27,382493,43,0.584,0.362,0.584,0.556,2.9e-05,0.13,-8.98,0.0514,103.739,4,Hip-Hop,Hindi,2007
+4,Kaisa Yeh Junoon,Greatest Collection - Rahat Fateh Ali Khan,Rahat Fateh Ali Khan,2010-03-29,250453,26,0.669,0.655,0.669,0.517,0.0,0.0913,-6.784,0.0277,115.977,4,Hip-Hop,Hindi,2010
+5,Jab Tak Hai Jaan: The Poem,Jab Tak Hai Jaan,A.R. Rahman,2012-10-09,134560,0,0.546,0.116,0.546,0.544,0.0316,0.097,-11.72,0.117,147.966,3,Hip-Hop,Hindi,2012
+6,"Aahun Aahun (From ""Love Aaj Kal"")",Love Aaj Kal,Pritam,2009-06-27,290493,42,0.536,0.154,0.536,0.903,4.5e-05,0.064,-5.501,0.307,129.965,4,Hip-Hop,Hindi,2009
+7,Teri Deewani,Kailasa,Kailasa,2006-02-24,323520,53,0.447,0.324,0.447,0.6,0.0,0.0962,-3.718,0.0332,80.044,3,Hip-Hop,Hindi,2006
+8,Moula Mere Moula,Sufis At The Cinema - 50 years Of Bollywood Qawwali and Sufi Song 1958 - 2007,Various Artists,2011-03-08,362293,0,0.463,0.46,0.463,0.562,0.00564,0.0803,-13.208,0.0395,119.935,4,Hip-Hop,Hindi,2011
+9,Kandhon Se Milte Hain Kandhe,Lakshya (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2004-04-26,340733,46,0.793,0.616,0.793,0.575,0.0,0.107,-7.363,0.0374,112.011,4,Hip-Hop,Hindi,2004
+10,"Salaam Aaya (From ""Veer"")",Veer,Sajid-Wajid,2009-12-21,293670,30,0.569,0.535,0.569,0.562,0.0,0.234,-7.729,0.0398,141.916,4,Hip-Hop,Hindi,2009
+11,"Teri Khushboo (From ""Mr. X"") - Male",Arijit Singh: My Favourites,Arijit Singh,2015-09-25,342217,0,0.63,0.762,0.63,0.508,2.16e-06,0.107,-7.294,0.0238,109.891,4,Hip-Hop,Hindi,2015
+12,"Saanson Ko (From ""Zid"")",Arijit Singh: My Favourites,Arijit Singh,2015-09-25,290346,0,0.636,0.155,0.636,0.745,2.54e-06,0.116,-5.4,0.0378,139.986,4,Hip-Hop,Hindi,2015
+13,,,,2015-09-23,310479,0,0.486,0.166,0.486,0.706,0.0,0.268,-5.558,0.0355,135.881,4,Hip-Hop,Hindi,2015
+14,,,,2015-09-23,269153,0,0.538,0.864,0.538,0.364,2.4e-05,0.176,-11.534,0.0364,134.883,3,Hip-Hop,Hindi,2015
+15,Uska Hi Banana,1920 (Evil Returns) [Original Motion Picture Soundtrack],Various Artists,2012-10-10,328360,0,0.563,0.299,0.563,0.682,0.0,0.249,-4.216,0.027,101.981,4,Hip-Hop,Hindi,2012
+16,Jiya,Gunday (Original Motion Picture Soundtrack),Various Artists,2014-01-07,283351,0,0.475,0.267,0.475,0.645,0.000149,0.0801,-8.039,0.0309,171.933,4,Hip-Hop,Hindi,2014
+17,Sun Zara - Cover Version,Rehnuma,Sreerama Chandra,2010-10-19,352973,0,0.439,0.67,0.439,0.662,0.0,0.125,-6.974,0.0617,75.229,4,Hip-Hop,Hindi,2010
+18,"Shukran Allah (From ""Kurbaan"")",Perfect 10: Love Story,Various Artists,2012-01-20,286573,26,0.341,0.731,0.341,0.68,0.0021,0.287,-8.46,0.169,81.772,4,Hip-Hop,Hindi,2012
+19,Dil Ibaadat,Tum Mile (Original Motion Picture Soundtrack),Pritam,2009-09-08,329386,54,0.59,0.633,0.59,0.859,0.0,0.286,-5.005,0.0416,149.966,4,Hip-Hop,Hindi,2009
+20,Tu Hi Haqeeqat,Tum Mile (Original Motion Picture Soundtrack),Pritam,2009-09-08,302026,55,0.705,0.582,0.705,0.744,0.0,0.2,-5.416,0.0341,115.959,4,Hip-Hop,Hindi,2009
+21,Haan Tu Hain,Jannat (Original Motion Picture Soundtrack),Pritam,2008-03-07,324880,50,0.415,0.718,0.415,0.904,0.0,0.0739,-3.586,0.104,83.648,4,Hip-Hop,Hindi,2008
+22,Rab Ka Shukrana,Jannat 2 (Original Motion Picture Soundtrack),Pritam,2012-03-30,299573,45,0.602,0.615,0.602,0.559,0.0,0.131,-6.203,0.0426,122.017,4,Hip-Hop,Hindi,2012
+23,Meherbaan,Bang Bang (Original Motion Picture Soundtrack),Vishal-Shekhar,2014-09-19,307407,50,0.591,0.629,0.591,0.531,3.87e-06,0.499,-8.677,0.0472,80.971,4,Hip-Hop,Hindi,2014
+24,Naam Adaa Likhna,Yahaan (Original Motion Picture Soundtrack),Shantanu Moitra,2005-08-09,381506,22,0.356,0.332,0.356,0.39,0.00927,0.111,-15.045,0.0359,83.848,1,Hip-Hop,Hindi,2005
+25,"Deewani Mastani (From ""Bajirao Mastani"")",Bajirao Mastani (Original Motion Picture Soundtrack),Sanjay Leela Bhansali,2015-11-25,340232,49,0.531,0.481,0.531,0.865,0.0,0.22,-3.389,0.0536,79.97,4,Hip-Hop,Hindi,2015
+26,"Mar Jayian Romantic (From ""Vicky Donor"")",Vicky Donor,Various Artists,2012-04-04,288960,35,0.632,0.204,0.632,0.721,1.02e-05,0.102,-7.616,0.0345,145.938,4,Hip-Hop,Hindi,2012
+27,Teri Jhuki Nazar,Murder 3 (Original Motion Picture Soundtrack),Pritam,2013-02-01,279186,52,0.386,0.707,0.386,0.815,0.0,0.159,-3.395,0.0417,124.293,4,Hip-Hop,Hindi,2013
+28,Tu Har Lamha,Khamoshiyan (Original Motion Picture Soundtrack),Various Artists,2014-12-29,272869,50,0.311,0.573,0.311,0.538,0.0,0.113,-4.551,0.0263,137.177,4,Hip-Hop,Hindi,2014
+29,Khamoshiyan,Khamoshiyan (Original Motion Picture Soundtrack),Various Artists,2014-12-29,335709,49,0.527,0.631,0.527,0.521,0.0,0.158,-6.837,0.0272,143.892,3,Hip-Hop,Hindi,2014
+30,"Jeena Jeena (From ""Badlapur"")","Jeena Jeena (From ""Badlapur"")",Sachin-Jigar,2015-01-15,228968,53,0.677,0.775,0.677,0.318,0.0,0.118,-9.196,0.028,104.983,4,Hip-Hop,Hindi,2015
+31,"Sapna Jahan (From ""Brothers"")","Sapna Jahan (From ""Brothers"")",Ajay-Atul,2015-07-24,341780,52,0.471,0.78,0.471,0.329,0.0021,0.117,-11.958,0.0312,126.107,4,Hip-Hop,Hindi,2015
+32,"Surili Akhiyon Wale (From ""Veer"")",Veer,Sajid-Wajid,2009-12-21,331758,42,0.514,0.402,0.514,0.574,0.0,0.0965,-5.788,0.0312,75.89,4,Hip-Hop,Hindi,2009
+33,Hamari Adhuri Kahani (Title Track),Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Jeet Gannguli,2015-05-21,398799,59,0.223,0.845,0.223,0.359,0.0,0.133,-7.569,0.0312,73.059,4,Hip-Hop,Hindi,2015
+34,Humnava,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Jeet Gannguli,2015-05-21,328854,50,0.341,0.781,0.341,0.478,2.07e-05,0.147,-7.201,0.041,199.435,4,Hip-Hop,Hindi,2015
+35,Hasi - Female Version,Hamari Adhuri Kahani (Original Motion Picture Soundtrack),Jeet Gannguli,2015-05-21,192186,57,0.52,0.927,0.52,0.485,0.000466,0.159,-6.438,0.0269,143.901,4,Hip-Hop,Hindi,2015
+36,"Mar Jaayen (From ""Loveshhuda"")","Mar Jaayen (From ""Loveshhuda"")",Atif Aslam,2015-12-01,257288,0,0.515,0.613,0.515,0.52,0.0,0.122,-6.322,0.03,87.954,4,Hip-Hop,Hindi,2015
+37,"Tera Chehra (From ""Sanam Teri Kasam"")",Sanam Teri Kasam (Original Motion Picture Soundtrack),Himesh Reshammiya,2016-01-07,274000,38,0.706,0.439,0.706,0.715,2.95e-06,0.0919,-4.143,0.0311,118.971,4,Hip-Hop,Hindi,2016
+38,"Tere Sang Yaara (From ""Rustom"")","Tere Sang Yaara (From ""Rustom"")",Atif Aslam,2016-07-06,290939,0,0.615,0.649,0.615,0.6,0.0,0.0755,-6.308,0.0337,76.028,4,Hip-Hop,Hindi,2016
+39,,,,2016-07-14,293720,0,0.628,0.747,0.628,0.522,2e-06,0.123,-5.776,0.0244,95.973,4,Hip-Hop,Hindi,2016
+40,"Manma Emotion Jaage (From ""Dilwale"")","Manma Emotion Jaage (From ""Dilwale"")",Amit Mishra,2015-11-17,209411,43,0.762,0.0284,0.762,0.822,0.0,0.367,-2.758,0.0425,101.998,4,Hip-Hop,Hindi,2015
+41,Tumhe Apna Banane Ka,Hate Story 3 (Original Motion Picture Soundtrack),Various Artists,2015-11-04,310100,0,0.373,0.874,0.373,0.497,0.0989,0.047,-10.35,0.0422,173.79,4,Hip-Hop,Hindi,2015
+42,Baaki Baatein Peene Baad (Shots) (feat. Badshah),Baaki Baatein Peene Baad (Shots) (feat. Badshah),Arjun Kanungo,2015-09-25,220312,56,0.566,0.0246,0.566,0.862,0.0,0.103,-6.02,0.105,147.974,4,Hip-Hop,Hindi,2015
+43,Muskurane - Romantic,Muskurane (Romantic),Jeet Gannguli,2014-05-12,334331,30,0.567,0.628,0.567,0.577,0.0,0.132,-6.197,0.0264,101.991,4,Hip-Hop,Hindi,2014
+44,Tu Hi Mera,Jannat 2 (Original Motion Picture Soundtrack),Pritam,2012-03-30,272973,50,0.621,0.544,0.621,0.859,0.0,0.11,-4.673,0.103,90.047,4,Hip-Hop,Hindi,2012
+45,,,,2015-09-23,331612,0,0.604,0.193,0.604,0.794,1.32e-06,0.312,-6.777,0.038,109.99,4,Hip-Hop,Hindi,2015
+46,,,,2015-09-23,288301,0,0.543,0.257,0.543,0.642,2.31e-06,0.14,-7.766,0.109,80.211,4,Hip-Hop,Hindi,2015
+47,,,,2015-09-23,321529,0,0.504,0.725,0.504,0.684,0.00219,0.08,-6.533,0.0341,134.971,4,Hip-Hop,Hindi,2015
+48,,,,2015-09-23,326152,0,0.452,0.413,0.452,0.606,7.7e-06,0.154,-7.624,0.0418,75.042,4,Hip-Hop,Hindi,2015
+49,,,,2015-09-23,202123,0,0.652,0.496,0.652,0.562,0.000121,0.327,-8.952,0.0313,119.968,4,Hip-Hop,Hindi,2015
+50,,,,2015-09-23,334172,0,0.521,0.597,0.521,0.296,0.0,0.106,-6.606,0.0306,119.961,4,Hip-Hop,Hindi,2015
+51,,,,2015-09-23,343080,0,0.443,0.483,0.443,0.82,0.0,0.114,-4.529,0.0741,171.759,4,Hip-Hop,Hindi,2015
+52,,,,2015-09-23,254446,0,0.464,0.251,0.464,0.457,0.0,0.131,-6.886,0.0292,149.911,4,Hip-Hop,Hindi,2015
+53,,,,2015-09-23,272079,0,0.664,0.589,0.664,0.681,0.0,0.108,-6.567,0.0519,81.081,4,Hip-Hop,Hindi,2015
+54,,,,2015-09-23,231628,0,0.589,0.204,0.589,0.958,8.57e-06,0.105,-6.129,0.0777,132.044,4,Hip-Hop,Hindi,2015
+55,,,,2015-09-23,260454,0,0.58,0.752,0.58,0.55,0.0,0.111,-6.623,0.0244,87.012,4,Hip-Hop,Hindi,2015
+56,,,,2015-09-23,262074,0,0.564,0.108,0.564,0.751,4.44e-06,0.1,-7.005,0.0414,172.033,4,Hip-Hop,Hindi,2015
+57,,,,2015-09-23,256771,0,0.562,0.561,0.562,0.667,0.0,0.177,-5.246,0.0312,95.916,4,Hip-Hop,Hindi,2015
+58,,,,2015-09-23,291227,0,0.472,0.262,0.472,0.558,0.0,0.161,-6.975,0.0344,144.04,3,Hip-Hop,Hindi,2015
+59,,,,2015-09-23,280308,0,0.497,0.575,0.497,0.772,0.000395,0.179,-7.172,0.041,110.729,5,Hip-Hop,Hindi,2015
+60,,,,2015-09-23,263668,0,0.554,0.428,0.554,0.577,0.0,0.106,-6.625,0.0329,139.968,4,Hip-Hop,Hindi,2015
+61,"Dooriyan (From ""Love Aaj Kal"")",Love Aaj Kal,Pritam,2009-06-27,337360,47,0.517,0.611,0.517,0.716,0.0,0.11,-6.582,0.0509,122.952,4,Hip-Hop,Hindi,2009
+62,"Pani Da Rang Male (From ""Vicky Donor"")",Vicky Donor,Various Artists,2012-04-04,240786,45,0.679,0.272,0.679,0.622,6.52e-05,0.106,-8.514,0.0328,98.028,4,Hip-Hop,Hindi,2012
+63,"Ae Dil Hai Mushkil Title Track (From ""Ae Dil Hai Mushkil"")","Ae Dil Hai Mushkil Title Track (From ""Ae Dil Hai Mushkil"")",Pritam,2016-10-26,269032,55,0.495,0.713,0.495,0.654,0.0,0.165,-6.639,0.0679,123.896,4,Hip-Hop,Hindi,2016
+64,"Piya O Re Piya (From ""Tere Naal Love Ho Gaya"")",Atif Hit Story,Atif Aslam,2013-03-05,292746,0,0.439,0.269,0.439,0.574,0.0,0.094,-6.394,0.0846,167.832,4,Hip-Hop,Hindi,2013
+65,"Jeene Laga Hoon (From ""Ramaiya Vastavaiya"")",Yours Truly,Atif Aslam,2014-09-02,236933,0,0.533,0.166,0.533,0.73,0.000179,0.138,-7.901,0.0427,90.315,4,Hip-Hop,Hindi,2014
+66,"Tu Jaane Na (From ""Ajab Prem Ki Ghazab Kahani"")",Yours Truly,Atif Aslam,2014-09-02,341933,0,0.702,0.36,0.702,0.86,1.33e-06,0.133,-3.969,0.0346,120.045,4,Hip-Hop,Hindi,2014
+67,"Kuch Is Tarah (From ""Doorie"")",Yours Truly,Atif Aslam,2014-09-02,314066,0,0.647,0.839,0.647,0.494,9.21e-06,0.116,-7.214,0.0232,96.997,4,Hip-Hop,Hindi,2014
+68,"Tere Bin (From ""Bas Ek Pal"")",Yours Truly,Atif Aslam,2014-09-02,275986,0,0.296,0.453,0.296,0.796,9.01e-06,0.0869,-4.846,0.0742,87.845,4,Hip-Hop,Hindi,2014
+69,"Bakhuda Tumhi Ho (From ""Kismat Konnection"")",Yours Truly,Atif Aslam,2014-09-02,292493,0,0.322,0.633,0.322,0.752,0.0,0.129,-3.457,0.0422,126.949,4,Hip-Hop,Hindi,2014
+70,"Hona Tha Pyar (From ""Bol"")",Yours Truly,Atif Aslam,2014-09-02,221003,0,0.689,0.571,0.689,0.542,0.0307,0.148,-8.673,0.0308,102.981,4,Hip-Hop,Hindi,2014
+71,"Shaayraana (From ""Holiday"")",Arijit Singh: My Favourites,Arijit Singh,2015-09-25,261439,0,0.608,0.606,0.608,0.665,1.46e-05,0.0832,-4.244,0.0482,93.919,4,Hip-Hop,Hindi,2015
+72,"Samjhawan (From ""Humpty Sharma Ki Dulhania"")",Arijit Singh: My Favourites,Arijit Singh,2015-09-25,269184,0,0.65,0.293,0.65,0.482,0.0,0.0811,-8.667,0.0281,106.994,4,Hip-Hop,Hindi,2015
+73,"Ashq Na Ho (From ""Holiday"")",Arijit Singh: My Favourites,Arijit Singh,2015-09-25,353103,0,0.438,0.904,0.438,0.376,0.0,0.0924,-6.292,0.0329,173.944,4,Hip-Hop,Hindi,2015
+74,"Baatein Ye Kabhi Na (From ""Khamoshiyan"") - Male",Arijit Singh: My Favourites,Arijit Singh,2015-09-25,289012,0,0.558,0.704,0.558,0.506,3.05e-06,0.0896,-6.761,0.0236,90.001,4,Hip-Hop,Hindi,2015
+75,"Blame the Night (From ""Holiday"")",Arijit Singh: My Favourites,Arijit Singh,2015-09-25,265018,0,0.608,0.177,0.608,0.985,1.99e-06,0.715,-3.293,0.14,139.986,4,Hip-Hop,Hindi,2015
+76,"Tanhaai (From ""Karle Pyaar Karle"")",Arijit Singh: My Favourites,Arijit Singh,2015-09-25,297240,0,0.536,0.00563,0.536,0.926,0.000415,0.589,-6.079,0.0587,135.01,4,Hip-Hop,Hindi,2015
+77,,,,2015-09-23,280229,0,0.515,0.475,0.515,0.577,1.51e-06,0.464,-6.767,0.0297,90.001,4,Hip-Hop,Hindi,2015
+78,,,,2015-09-23,250815,0,0.716,0.809,0.716,0.363,0.0,0.0954,-8.196,0.0293,103.978,4,Hip-Hop,Hindi,2015
+79,,,,2015-09-23,262152,0,0.519,0.831,0.519,0.442,0.0,0.125,-6.318,0.0257,93.931,4,Hip-Hop,Hindi,2015
+80,,,,2015-09-23,265026,0,0.616,0.173,0.616,0.757,0.0,0.154,-4.788,0.0554,128.035,4,Hip-Hop,Hindi,2015
+81,,,,2015-09-23,223726,0,0.578,0.408,0.578,0.563,0.0,0.17,-5.897,0.0264,84.0,4,Hip-Hop,Hindi,2015
+82,,,,2015-09-23,244650,0,0.661,0.714,0.661,0.557,4.98e-05,0.103,-8.193,0.0289,117.995,4,Hip-Hop,Hindi,2015
+83,,,,2015-09-23,282345,0,0.56,0.864,0.56,0.213,0.0293,0.0819,-15.448,0.0363,137.92,4,Hip-Hop,Hindi,2015
+84,,,,2015-09-23,219364,0,0.652,0.809,0.652,0.529,0.0,0.133,-7.146,0.0315,109.977,4,Hip-Hop,Hindi,2015
+85,,,,2015-09-23,254185,0,0.413,0.435,0.413,0.339,0.000723,0.123,-13.363,0.0366,118.18,4,Hip-Hop,Hindi,2015
+86,,,,2015-09-23,325081,0,0.556,0.0233,0.556,0.782,0.0,0.476,-4.739,0.0303,114.945,4,Hip-Hop,Hindi,2015
+87,Badlapur Mashup,"Badlapur Mashup (From ""Badlapur"")",Various Artists,2015-02-24,169090,31,0.67,0.119,0.67,0.779,0.0,0.145,-4.437,0.0347,131.939,4,Hip-Hop,Hindi,2015
+88,"Judaai (From ""Badlapur)",Badlapur (Original Motion Picture Soundtrack),Sachin-Jigar,2015-01-23,271379,30,0.343,0.745,0.343,0.373,1.2e-05,0.14,-9.363,0.0607,92.957,5,Hip-Hop,Hindi,2015
+89,"Jee Karda (From ""Badlapur)",Badlapur (Original Motion Picture Soundtrack),Sachin-Jigar,2015-01-23,240999,8,0.547,0.157,0.547,0.705,0.0,0.109,-7.873,0.0356,140.008,4,Hip-Hop,Hindi,2015
+90,Jeena Jeena (Remix),Badlapur (Original Motion Picture Soundtrack),Sachin-Jigar,2015-01-23,218619,13,0.668,0.0954,0.668,0.761,0.000252,0.0915,-6.444,0.0329,125.019,4,Hip-Hop,Hindi,2015
+91,"Jeene Laga Hoon (From ""Ramaiya Vastavaiya"")",Ramaiya Vastavaiya (Original Motion Picture Soundtrack),Sachin-Jigar,2013-05-15,231673,0,0.562,0.144,0.562,0.735,0.000204,0.177,-7.924,0.0445,90.057,4,Hip-Hop,Hindi,2013
+92,Saibo,Shor in the City (Original Motion Picture Soundtrack),Sachin-Jigar,2011-03-28,195253,61,0.619,0.736,0.619,0.428,1.27e-05,0.136,-7.867,0.0281,90.056,4,Hip-Hop,Hindi,2011
+93,Char Baj Gaye - Party Abhi Baaki Hai,F.A.L.T.U (Original Motion Picture Soundtrack),Sachin-Jigar,2011-06-08,213880,44,0.95,0.0317,0.95,0.694,1.93e-06,0.137,-7.089,0.0516,119.972,4,Hip-Hop,Hindi,2011
+94,"Hip Hop Pammi (From ""Ramaiya Vastavaiya"")",Ramaiya Vastavaiya (Original Motion Picture Soundtrack),Sachin-Jigar,2013-05-15,220440,0,0.556,0.0718,0.556,0.839,2.78e-05,0.107,-6.037,0.138,110.005,4,Hip-Hop,Hindi,2013
+95,"Jaise Mera Tu (From ""Happy Ending"")",Happy Ending (Original Motion Picture Soundtrack),Sachin-Jigar,2014-10-22,256002,30,0.49,0.354,0.49,0.667,0.000117,0.0968,-7.84,0.0473,149.843,3,Hip-Hop,Hindi,2014
+96,"Khamma Ghani (From ""Happy Ending"")",Happy Ending (Original Motion Picture Soundtrack),Sachin-Jigar,2014-10-22,270013,20,0.608,0.553,0.608,0.59,0.0,0.11,-6.978,0.0362,79.977,4,Hip-Hop,Hindi,2014
+97,Faltu,F.A.L.T.U (Original Motion Picture Soundtrack),Sachin-Jigar,2011-06-08,283613,30,0.791,0.0265,0.791,0.785,0.000185,0.365,-3.49,0.0504,132.017,4,Hip-Hop,Hindi,2011
+98,,,,2015-05-22,217888,0,0.401,0.564,0.401,0.665,0.000328,0.136,-8.405,0.0499,72.499,4,Hip-Hop,Hindi,2015
+99,Gora Gora Rang,Unforgettable,Imran Khan,2009-07-27,265640,0,0.602,0.0102,0.602,0.777,0.0,0.157,-5.928,0.0318,84.986,4,Hip-Hop,Hindi,2009
+0,Maahi Ve,Kal Ho Naa Ho (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2003-09-20,366853,57,0.815,0.0297,0.815,0.833,2e-05,0.33,-6.117,0.0769,99.989,4,Throwback,Hindi,2003
+1,Main Hoon Na,Main Hoon Na,Anu Malik,2004-02-27,361066,51,0.48,0.284,0.48,0.681,0.0,0.125,-8.002,0.163,88.003,4,Throwback,Hindi,2004
+2,Tumhe Jo Maine Dekha,Main Hoon Na,Anu Malik,2004-02-27,341146,48,0.734,0.432,0.734,0.903,0.00569,0.2,-3.972,0.0649,102.009,4,Throwback,Hindi,2004
+3,Chale Jaise Hawaien,Main Hoon Na,Anu Malik,2004-02-27,324053,47,0.75,0.0755,0.75,0.861,0.00586,0.202,-11.029,0.0613,117.593,4,Throwback,Hindi,2004
+4,Ye Fizaein,Main Hoon Na,Anu Malik,2004-02-27,317320,33,0.709,0.0657,0.709,0.701,4.95e-05,0.233,-7.334,0.0398,119.982,4,Throwback,Hindi,2004
+5,Main Hoon Na(Sad),Main Hoon Na,Anu Malik,2004-02-27,255493,40,0.578,0.219,0.578,0.482,0.0,0.55,-10.503,0.0378,139.831,4,Throwback,Hindi,2004
+6,Gori Gori Gori Gori,Main Hoon Na,Anu Malik,2004-02-27,268800,46,0.787,0.0726,0.787,0.866,0.00292,0.284,-7.016,0.0436,101.009,4,Throwback,Hindi,2004
+7,Tumse Milke Dil Ka,Main Hoon Na,Anu Malik,2004-02-27,359253,53,0.853,0.0642,0.853,0.745,1.87e-06,0.0274,-8.636,0.109,107.985,4,Throwback,Hindi,2004
+8,Chale Jaise Hawayein (Remix),Main Hoon Na,Anu Malik,2004-02-27,247080,30,0.681,0.00305,0.681,0.896,0.0118,0.227,-6.501,0.0631,134.987,4,Throwback,Hindi,2004
+9,It's the Time to Disco,Kal Ho Naa Ho (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2003-09-20,333093,53,0.902,0.0452,0.902,0.772,0.000129,0.12,-8.29,0.0383,131.992,4,Throwback,Hindi,2003
+10,Pretty Woman,Kal Ho Naa Ho (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2003-09-20,353880,51,0.677,0.124,0.677,0.942,0.0132,0.0819,-6.105,0.16,173.991,4,Throwback,Hindi,2003
+11,Kal Ho Naa Ho,Kal Ho Naa Ho (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2003-09-20,321240,61,0.532,0.334,0.532,0.529,0.000144,0.078,-8.402,0.0352,81.989,4,Throwback,Hindi,2003
+12,Kuch To Hua Hai,Kal Ho Naa Ho (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2003-09-20,319560,48,0.674,0.128,0.674,0.661,2.03e-05,0.283,-7.973,0.0619,95.966,4,Throwback,Hindi,2003
+13,Kal Ho Naa Ho - Sad,Kal Ho Naa Ho (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2003-09-20,335160,49,0.585,0.347,0.585,0.467,0.000201,0.0878,-7.957,0.0307,77.985,4,Throwback,Hindi,2003
+14,Heartbeat - Instrumental,Kal Ho Naa Ho (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2003-09-20,263626,43,0.517,0.599,0.517,0.285,0.461,0.0842,-11.239,0.0294,139.93,4,Throwback,Hindi,2003
+15,Dil Chahta Hai,Dil Chahta Hai,Shankar-Ehsaan-Loy,2001-06-22,310080,51,0.813,0.0906,0.813,0.554,1.23e-06,0.0629,-9.105,0.04,103.953,4,Throwback,Hindi,2001
+16,Jaane Kyon Log Pyar,Dil Chahta Hai,Shankar-Ehsaan-Loy,2001-06-22,289386,45,0.607,0.0185,0.607,0.526,0.00173,0.227,-9.111,0.066,190.019,4,Throwback,Hindi,2001
+17,Woh Ladki Hai Kahan,Dil Chahta Hai,Shankar-Ehsaan-Loy,2001-06-22,306133,48,0.786,0.172,0.786,0.677,0.000104,0.0446,-8.624,0.183,94.985,4,Throwback,Hindi,2001
+18,Koi Kahe Kehta Rahe,Dil Chahta Hai,Shankar-Ehsaan-Loy,2001-06-22,346200,46,0.749,0.00166,0.749,0.734,6.48e-06,0.108,-7.058,0.0594,131.975,4,Throwback,Hindi,2001
+19,Jaane Kyon,Dil Chahta Hai (Original Motion Picture Soundtrack),Various Artists,2001-06-23,291410,0,0.599,0.0292,0.599,0.578,7.94e-05,0.143,-7.964,0.0725,189.881,4,Throwback,Hindi,2001
+20,Salaam Namaste,Salaam Namaste (Original),Vishal-Shekhar,2005-08-03,276166,44,0.69,0.217,0.69,0.868,0.0,0.325,-6.472,0.0889,96.99,4,Throwback,Hindi,2005
+21,My Dil Goes Mmmm,Salaam Namaste (Original),Vishal-Shekhar,2005-08-03,452832,47,0.693,0.343,0.693,0.797,0.00125,0.0673,-7.392,0.0704,90.997,4,Throwback,Hindi,2005
+22,Whats Goin' On,Salaam Namaste (Original),Vishal-Shekhar,2005-08-03,280398,32,0.833,0.106,0.833,0.714,2.36e-05,0.315,-6.972,0.0597,105.017,4,Throwback,Hindi,2005
+23,Tu Jahaan,Salaam Namaste (Original),Vishal-Shekhar,2005-08-03,315768,35,0.612,0.503,0.612,0.617,0.00513,0.0851,-8.962,0.049,77.967,4,Throwback,Hindi,2005
+24,Salaam Namaste (Dhol Mix),Salaam Namaste (Original),Vishal-Shekhar,2005-08-03,233534,22,0.761,0.226,0.761,0.879,0.00455,0.359,-6.241,0.0631,108.007,4,Throwback,Hindi,2005
+25,Ladki Kyon,Hum Tum (Original),Jatin-Lalit,2004-04-09,378044,42,0.76,0.639,0.76,0.83,0.0,0.109,-6.868,0.28,93.401,4,Throwback,Hindi,2004
+26,Hum Tum,Hum Tum (Original),Jatin-Lalit,2004-04-09,329221,50,0.465,0.381,0.465,0.682,0.00041,0.0801,-8.124,0.0512,164.01,4,Throwback,Hindi,2004
+27,Gore Gore,Hum Tum (Original),Jatin-Lalit,2004-04-09,296359,32,0.762,0.153,0.762,0.878,2.35e-05,0.071,-4.999,0.083,100.998,4,Throwback,Hindi,2004
+28,Hum Tum (Instrumental),Hum Tum (Original),Jatin-Lalit,2004-04-09,204747,28,0.626,0.0903,0.626,0.568,0.654,0.188,-8.284,0.0332,81.967,4,Throwback,Hindi,2004
+29,U-N-I (Mere Dil Vich Hai Hum Tum),Hum Tum (Original),Jatin-Lalit,2004-04-09,217547,37,0.799,0.0195,0.799,0.844,0.0018,0.26,-6.341,0.0578,102.971,4,Throwback,Hindi,2004
+30,Na Tum Jano Na Hum,Kaho Naa Pyaar Hai (Original Motion Picture Soundtrack),Rajesh Roshan,1999-12-01,383213,0,0.515,0.323,0.515,0.519,0.000657,0.0566,-11.197,0.0397,89.499,4,Throwback,Hindi,1999
+31,"Desi Girl (From ""Dostana"")",Best of Me Vishal Shekhar,Vishal-Shekhar,2013-04-22,306986,48,0.746,0.0169,0.746,0.924,0.00279,0.097,-6.057,0.0442,136.051,4,Throwback,Hindi,2013
+32,Senorita,Zindagi Na Milegi Dobara,Shankar-Ehsaan-Loy,2011-06-06,229575,54,0.701,0.134,0.701,0.681,0.0,0.064,-6.442,0.0466,122.539,4,Throwback,Hindi,2011
+33,Tere Naina,My Name Is Khan (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2010-01-05,278546,50,0.551,0.558,0.551,0.74,0.0,0.144,-7.019,0.0452,92.761,4,Throwback,Hindi,2010
+34,Ik Junoon (Remix By Dj Shiva),Zindagi Na Milegi Dobara,Shankar-Ehsaan-Loy,2011-06-06,242300,38,0.777,0.14,0.777,0.652,0.000878,0.105,-8.273,0.0449,129.978,4,Throwback,Hindi,2011
+35,Dil Dhadakne Do,Zindagi Na Milegi Dobara,Shankar-Ehsaan-Loy,2011-06-06,230318,53,0.778,0.0705,0.778,0.599,0.0,0.59,-4.758,0.032,116.951,4,Throwback,Hindi,2011
+36,Ik Junoon (Paint It Red),Zindagi Na Milegi Dobara,Shankar-Ehsaan-Loy,2011-06-06,299119,52,0.79,0.364,0.79,0.848,0.00147,0.148,-7.798,0.0508,127.034,4,Throwback,Hindi,2011
+37,Khaabon Ke Parinday,Zindagi Na Milegi Dobara,Shankar-Ehsaan-Loy,2011-06-06,251704,56,0.517,0.721,0.517,0.565,0.00689,0.0997,-10.184,0.0441,169.952,4,Throwback,Hindi,2011
+38,Der Lagi Lekin,Zindagi Na Milegi Dobara,Shankar-Ehsaan-Loy,2011-06-06,355915,49,0.637,0.0483,0.637,0.675,0.00261,0.125,-7.817,0.0296,110.946,4,Throwback,Hindi,2011
+39,Sooraj Ki Baahon Mein,Zindagi Na Milegi Dobara,Shankar-Ehsaan-Loy,2011-06-06,202919,55,0.855,0.19,0.855,0.553,5.19e-06,0.0942,-6.52,0.0331,124.922,4,Throwback,Hindi,2011
+40,Phir Bhi Yeh Zindagi,Dil Dhadakne Do,Shankar-Ehsaan-Loy,2015-05-02,267591,32,0.518,0.137,0.518,0.785,0.0,0.0677,-5.058,0.0544,158.055,4,Throwback,Hindi,2015
+41,Aaj Kal Zindagi,Wake Up Sid (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2009-08-21,254506,46,0.639,0.21,0.639,0.617,0.00558,0.099,-8.897,0.0329,134.95,4,Throwback,Hindi,2009
+42,Tu Hi Hai,Dear Zindagi (Original Motion Picture Soundtrack),Amit Trivedi,2016-11-15,199643,52,0.707,0.387,0.707,0.501,1.81e-06,0.095,-7.389,0.0372,93.978,4,Throwback,Hindi,2016
+43,Taarefon Se,Dear Zindagi (Original Motion Picture Soundtrack),Amit Trivedi,2016-11-15,278238,49,0.605,0.76,0.605,0.437,0.00112,0.111,-9.023,0.0293,125.906,4,Throwback,Hindi,2016
+44,Yeh Ladka Hai Allah,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),Jatin-Lalit,2001-11-28,327226,54,0.646,0.419,0.646,0.908,1.57e-06,0.381,-4.68,0.0988,104.238,4,Throwback,Hindi,2001
+45,Deewana Hai Dekho,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),Jatin-Lalit,2001-11-28,345266,46,0.776,0.167,0.776,0.792,1.96e-06,0.13,-5.619,0.18,102.988,4,Throwback,Hindi,2001
+46,You Are My Soniya,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),Jatin-Lalit,2001-11-28,343613,50,0.853,0.29,0.853,0.785,0.0,0.0589,-6.08,0.0619,106.046,4,Throwback,Hindi,2001
+47,Mitwa,Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2006-06-08,382973,58,0.63,0.295,0.63,0.63,1.26e-05,0.0934,-7.525,0.0364,107.103,4,Throwback,Hindi,2006
+48,Kajra Re,Bunty Aur Babli (Original),Shankar-Ehsaan-Loy,2005-04-15,482586,50,0.484,0.365,0.484,0.898,0.0,0.091,-4.132,0.164,91.975,4,Throwback,Hindi,2005
+49,Kabhi Kabhi Aditi,Jaane Tu... Ya Jaane Na,A.R. Rahman,2008-05-21,218836,59,0.791,0.276,0.791,0.558,0.0,0.0859,-7.155,0.0661,95.077,4,Throwback,Hindi,2008
+50,Kahin To,Jaane Tu... Ya Jaane Na,A.R. Rahman,2008-05-21,303206,56,0.61,0.334,0.61,0.492,6.3e-06,0.0979,-7.55,0.0261,90.984,4,Throwback,Hindi,2008
+51,Pappu Can't Dance,Jaane Tu... Ya Jaane Na,A.R. Rahman,2008-05-21,264986,46,0.668,0.00335,0.668,0.746,0.00031,0.0773,-7.592,0.0603,119.696,4,Throwback,Hindi,2008
+52,Nazrein Milaana Nazrein Churaana,Jaane Tu... Ya Jaane Na,A.R. Rahman,2008-05-21,234858,43,0.751,0.103,0.751,0.54,0.000224,0.102,-7.942,0.0753,110.015,4,Throwback,Hindi,2008
+53,Khuda Jaane,Bachna Ae Haseeno (Original),Vishal-Shekhar,2008-07-05,333583,60,0.382,0.391,0.382,0.632,0.000486,0.0922,-6.393,0.0411,78.936,4,Throwback,Hindi,2008
+54,Lucky Boy,Bachna Ae Haseeno (Original),Vishal-Shekhar,2008-07-05,253753,38,0.802,0.0975,0.802,0.824,0.382,0.293,-6.081,0.0309,114.982,4,Throwback,Hindi,2008
+55,Aahista Aahista,Bachna Ae Haseeno (Original),Vishal-Shekhar,2008-07-05,291604,46,0.68,0.187,0.68,0.818,0.419,0.289,-9.144,0.0382,125.995,4,Throwback,Hindi,2008
+56,Khuda Jaane Revisited - Remixed By: Abhijit Nalani,Bachna Ae Haseeno (Original),Vishal-Shekhar,2008-07-05,281991,24,0.637,0.000321,0.637,0.969,0.822,0.334,-5.205,0.0335,139.973,4,Throwback,Hindi,2008
+57,Jaane Kyun,Dostana (Original Motion Picture Soundtrack),Vishal-Shekhar,2008-10-08,277986,50,0.778,0.0573,0.778,0.812,8.28e-06,0.243,-8.561,0.046,99.962,4,Throwback,Hindi,2008
+58,Desi Girl,Dostana (Original Motion Picture Soundtrack),Vishal-Shekhar,2008-10-08,306986,52,0.746,0.0169,0.746,0.924,0.00279,0.097,-6.057,0.0442,136.051,4,Throwback,Hindi,2008
+59,Maa Da Laadla,Dostana (Original Motion Picture Soundtrack),Vishal-Shekhar,2008-10-08,245186,38,0.787,0.00771,0.787,0.933,0.214,0.116,-5.712,0.0559,113.974,4,Throwback,Hindi,2008
+60,Shut Up & Bounce,Dostana (Original Motion Picture Soundtrack),Vishal-Shekhar,2008-10-08,277493,42,0.578,0.00269,0.578,0.857,0.263,0.141,-7.272,0.0648,121.981,4,Throwback,Hindi,2008
+61,Khabar Nahi,Dostana (Original Motion Picture Soundtrack),Vishal-Shekhar,2008-10-08,259120,45,0.623,0.153,0.623,0.758,0.0,0.0622,-6.641,0.109,90.948,4,Throwback,Hindi,2008
+62,Kuch Kam,Dostana (Original Motion Picture Soundtrack),Vishal-Shekhar,2008-10-08,341013,41,0.692,0.575,0.692,0.48,0.00287,0.137,-9.919,0.0397,144.003,4,Throwback,Hindi,2008
+63,Kuch Kuch Hota Hai,Kuch Kuch Hota Hai,Jatin-Lalit,1998-08-13,297866,57,0.547,0.602,0.547,0.554,0.000155,0.0735,-11.165,0.0374,91.386,4,Throwback,Hindi,1998
+64,Jab Se Tere Naina,Saawariya (Original Motion Picture Soundtrack),Monty Sharma,2007-09-14,284573,56,0.599,0.362,0.599,0.653,0.0,0.144,-7.576,0.122,79.968,4,Throwback,Hindi,2007
+65,"Tum Hi Ho Bandhu (From ""Cocktail"")",Cocktail,Pritam,2012-06-12,282012,52,0.714,0.00145,0.714,0.892,0.000817,0.0462,-5.342,0.0516,134.997,4,Throwback,Hindi,2012
+66,Crazy Kiya Re,Dhoom:2 (Original),Pritam,2006-10-19,294504,48,0.759,0.143,0.759,0.938,3.97e-06,0.402,-5.387,0.123,92.017,4,Throwback,Hindi,2006
+67,Yeh Ladka Hai Deewana,Kuch Kuch Hota Hai,Jatin-Lalit,1998-08-13,397533,47,0.516,0.289,0.516,0.757,7.21e-06,0.367,-9.404,0.0551,124.061,4,Throwback,Hindi,1998
+68,Jab Mila Tu,I Hate Luv Storys (Original Motion Picture Soundtrack),Vishal-Shekhar,2010-05-25,251853,45,0.626,0.0482,0.626,0.561,0.0,0.304,-6.644,0.0304,167.916,4,Throwback,Hindi,2010
+69,Bin Tere,I Hate Luv Storys (Original Motion Picture Soundtrack),Vishal-Shekhar,2010-05-25,330360,55,0.585,0.42,0.585,0.698,3.59e-06,0.363,-6.261,0.0392,139.831,4,Throwback,Hindi,2010
+70,I Hate Luv Storys,I Hate Luv Storys (Original Motion Picture Soundtrack),Vishal-Shekhar,2010-05-25,285213,47,0.747,0.0688,0.747,0.81,0.0405,0.0592,-8.352,0.0541,130.012,4,Throwback,Hindi,2010
+71,Bahara,I Hate Luv Storys (Original Motion Picture Soundtrack),Vishal-Shekhar,2010-05-25,325706,54,0.456,0.0718,0.456,0.739,7.24e-06,0.134,-6.733,0.0402,85.773,4,Throwback,Hindi,2010
+72,Sadka,I Hate Luv Storys (Original Motion Picture Soundtrack),Vishal-Shekhar,2010-05-25,343586,46,0.678,0.232,0.678,0.547,0.000176,0.0785,-6.89,0.0286,143.892,4,Throwback,Hindi,2010
+73,Bin Tere - Reprise,I Hate Luv Storys (Original Motion Picture Soundtrack),Vishal-Shekhar,2010-05-25,220146,39,0.452,0.876,0.452,0.249,2.3e-05,0.115,-10.163,0.0299,149.599,4,Throwback,Hindi,2010
+74,Bahara - Chill Version,I Hate Luv Storys (Original Motion Picture Soundtrack),Vishal-Shekhar,2010-05-25,244800,40,0.657,0.363,0.657,0.685,0.00806,0.129,-6.667,0.0797,87.966,4,Throwback,Hindi,2010
+75,Bin Tere - Remix by DJ Kiran,I Hate Luv Storys (Original Motion Picture Soundtrack),Vishal-Shekhar,2010-05-25,328706,23,0.545,0.0276,0.545,0.92,0.000155,0.311,-6.613,0.0964,136.911,4,Throwback,Hindi,2010
+76,Where's the Party Tonight,Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2006-06-08,378160,47,0.764,0.00269,0.764,0.863,0.0,0.27,-5.414,0.0416,132.021,4,Throwback,Hindi,2006
+77,Sheila Ki Jawani,Tees Maar Khan,Shirish Kunder,2010-11-15,281707,51,0.803,0.305,0.803,0.859,6.18e-05,0.553,-4.405,0.185,101.007,4,Throwback,Hindi,2010
+78,Gal Mitthi Mitthi,Aisha (Original Motion Picture Soundtrack),Amit Trivedi,2010-07-05,255906,51,0.906,0.13,0.906,0.699,0.0165,0.178,-5.526,0.0462,129.946,4,Throwback,Hindi,2010
+79,Rock N Roll Soniye,Kabhi Alvida Naa Kehna (Original Motion Picture Soundtrack),Shankar-Ehsaan-Loy,2006-06-08,341840,44,0.787,0.109,0.787,0.871,0.0,0.0426,-6.193,0.142,94.998,4,Throwback,Hindi,2006
+80,"Daaru Desi (From ""Cocktail"")",Cocktail,Pritam,2012-06-12,269589,40,0.703,0.198,0.703,0.786,0.000712,0.101,-6.779,0.0483,93.987,4,Throwback,Hindi,2012
+81,Chand Sifarish,Fanaa (Original),Jatin-Lalit,2006-04-12,275931,58,0.829,0.242,0.829,0.665,1.75e-05,0.123,-8.128,0.0868,122.043,4,Throwback,Hindi,2006
+82,Mere Haath Mein,Fanaa (Original),Jatin-Lalit,2006-04-12,285857,56,0.554,0.578,0.554,0.606,0.000183,0.11,-12.312,0.0722,93.922,4,Throwback,Hindi,2006
+83,Dekho Na,Fanaa (Original),Jatin-Lalit,2006-04-12,322194,43,0.623,0.522,0.623,0.654,6.44e-05,0.0911,-11.969,0.0522,82.516,4,Throwback,Hindi,2006
+84,Ladki Badi Anjani Hai,Kuch Kuch Hota Hai,Jatin-Lalit,1998-08-13,381706,55,0.637,0.522,0.637,0.774,0.0001,0.0901,-9.327,0.056,121.108,4,Throwback,Hindi,1998
+85,Radha,Student of the Year (Original Motion Picture Soundtrack),Vishal-Shekhar,2012-08-31,341360,52,0.804,0.11,0.804,0.748,0.0,0.0998,-14.163,0.0616,131.989,4,Throwback,Hindi,2012
+86,Aa Raha Hoon Main,Made For Each Other,Various Artists,2012-01-01,211613,0,0.633,0.0219,0.633,0.851,0.0,0.0817,-7.544,0.0257,127.996,4,Throwback,Hindi,2012
+87,Kabhie Phool Dena (Pyar Ke Naam) - Rules - Pyar Ka Super Hit Formula / Soundtrack Version,Rules Pyar Ka Super Hit Formula,Various Artists,2003-01-01,245760,23,0.674,0.0137,0.674,0.558,0.0,0.0758,-8.383,0.0413,137.89,4,Throwback,Hindi,2003
+88,Bole Chudiyan,Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack),Jatin-Lalit,2001-11-28,408133,58,0.59,0.45,0.59,0.875,1.18e-05,0.164,-5.294,0.171,96.915,4,Throwback,Hindi,2001
+89,Balam Pichkari,Yeh Jawaani Hai Deewani,Pritam,2013-03-30,288902,58,0.732,0.209,0.732,0.944,0.0,0.403,-4.115,0.09,120.019,4,Throwback,Hindi,2013
+90,Ek Pal Ka Jeena,Kaho Naa Pyaar Hai (Original Motion Picture Soundtrack),Rajesh Roshan,2000-10-01,397426,42,0.676,0.0503,0.676,0.798,3.96e-05,0.0371,-9.493,0.0475,103.98,4,Throwback,Hindi,2000
+91,Hookah Bar,Khiladi 786,Himesh Reshammiya,2012-10-30,254351,57,0.73,0.00797,0.73,0.656,0.00271,0.108,-5.07,0.0294,131.04,4,Throwback,Hindi,2012
+92,Baby Doll,Bollywood Party With Meet Bros,Meet Bros.,2017-08-17,213887,50,0.836,0.275,0.836,0.839,7.25e-06,0.181,-2.974,0.106,103.992,4,Throwback,Hindi,2017
+93,Halkat Jawani,Heroine (Original Motion Picture Soundtrack),Salim–Sulaiman,2012-06-24,238426,44,0.71,0.108,0.71,0.812,2.14e-06,0.465,-2.497,0.119,131.983,4,Throwback,Hindi,2012
+94,Ghagra,Yeh Jawaani Hai Deewani,Pritam,2013-03-30,304307,51,0.706,0.222,0.706,0.92,0.0,0.319,-5.208,0.172,101.94,4,Throwback,Hindi,2013
+95,Ajab Si,Om Shanti Om,Vishal-Shekhar,2007-09-18,241668,57,0.697,0.397,0.697,0.438,0.0,0.293,-8.411,0.0289,117.954,4,Throwback,Hindi,2007
+96,Dard - E - Disco,Om Shanti Om,Vishal-Shekhar,2007-09-18,268712,46,0.837,0.0381,0.837,0.839,0.000193,0.301,-5.548,0.0468,107.025,4,Throwback,Hindi,2007
+97,Deewangi Deewangi,Om Shanti Om,Vishal-Shekhar,2007-09-18,352388,50,0.725,0.0289,0.725,0.918,5.13e-06,0.602,-4.875,0.0447,107.975,4,Throwback,Hindi,2007
+98,Main Agar Kahoon,Om Shanti Om,Vishal-Shekhar,2007-09-18,308158,56,0.533,0.234,0.533,0.436,3.17e-06,0.46,-7.521,0.0276,146.868,3,Throwback,Hindi,2007
+99,Jag Soona Soona Lage,Om Shanti Om,Vishal-Shekhar,2007-09-18,329429,51,0.563,0.0663,0.563,0.71,0.0,0.105,-6.212,0.0592,133.873,4,Throwback,Hindi,2007

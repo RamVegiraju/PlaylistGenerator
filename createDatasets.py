@@ -44,7 +44,7 @@ Hindi2Ids = getTrackIDs("spotify:playlist:7txATsRO9GWnExLEBLQfCh")
 ##########
 #Hip-Hop
 ##########
-HipHopIds = getTrackIDs("spotify:playlist:417KR5z953EUH9SIi4pMYb")
+HipHopIds = getTrackIDs("spotify:playlist:0OtdLZ5JVyqB4Zp8aylECe")
 HipHopIds2 = getTrackIDs("spotify:playlist:003RTZc7voFjhdAwzZ5SC9")
 HipHopIds3 = getTrackIDs("spotify:playlist:6Myw1PqQ874lA3ZUd6snjE")
 
@@ -335,7 +335,7 @@ sadDF3 = addLanguage(sadDF3, "English")
 #Romantic
 ##########
 romanticDF1 = addLanguage(romanticDF1, "English")
-romanticDF2 = addLanguage(romanticDF1, "Hindi")
+romanticDF2 = addLanguage(romanticDF2, "Hindi")
 
 print("Adding year")
 
