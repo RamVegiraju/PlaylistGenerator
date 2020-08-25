@@ -6,18 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <h1>Welcome! This is a playlist generator</h1>
+      <p>We will be helping you curate your favorite playlists based off of your favorite artists, genres, and type of language you desire.</p>
+        {/*<img src={logo} className="App-logo" alt="logo" /> */}
       </header>
     </div>
   );
