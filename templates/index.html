@@ -4,8 +4,52 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Playlist Generator</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+   <form action="#" method="post">
+      <h1>Generate your playlist!</h1>
+      
+      <div class="column">
+        <label for="your_artist">Your Favorite Artists (Add up to 10)</label>
+        <input type="text" id="your_artist" name="yourartist"/>
+
+        <label for="your_playlist">Playlist Size (Taking up to 20 currently)</label>
+         <input type="text" id="your_playlist" name="yourplaylist" />
+      </div>
+
+      
+       
+      <div class="column">
+        <label for="genre">Choose Your Genre!</label>
+        <select id="genre" name="genre">
+        <option value="Hip-Hop">Hip-Hop</option>
+        <option value="Jazz">Jazz</option>
+        <option value="Rap">Rap</option>  
+        </select>
+        
+        
+        <!-- use fieldset to group related inputs -->
+        <fieldset>
+        <legend>Choose Your Preferred Language For Playlist:</legend>
+        <label>
+        <input type="radio" name="lang" value="English" />
+          English
+        </label>
+        <label>
+        <input type="radio" name="lang" value="Spanish"/>
+          Spanish
+        </label>
+        <label>
+        <input type="radio" name="lang" value="Hindi" />
+          Hindi
+        </label>
+        </fieldset>
+
+        <input style = "text-align: center;" type="submit" value="Create your playlist!" />
+      </div>
+      
+    </form>
 
 </body>
 </html>
