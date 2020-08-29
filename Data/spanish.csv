@@ -1,0 +1,201 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature,Genre/Mood,Language,release_year
+0,Bailando - Spanish Version,SEX AND LOVE (Deluxe),Enrique Iglesias,2014-01-01,243413,69,0.723,0.0426,0.723,0.777,3.68e-06,0.0451,-3.503,0.108,91.017,4,Hip-Hop,Spanish,2014
+1,Propuesta Indecente,"Fórmula, Vol. 2 (Deluxe Edition)",Romeo Santos,2014-02-25,235133,76,0.757,0.499,0.757,0.632,0.0,0.0723,-6.83,0.0549,122.936,4,Hip-Hop,Spanish,2014
+2,Vivir Mi Vida,3.0,Marc Anthony,2013-07-23,252346,76,0.655,0.344,0.655,0.877,0.0,0.349,-3.23,0.0344,105.017,4,Hip-Hop,Spanish,2013
+3,Darte un Beso,Soy el Mismo,Prince Royce,2013-10-08,206933,71,0.757,0.36,0.757,0.711,0.0,0.121,-4.643,0.0349,139.962,4,Hip-Hop,Spanish,2013
+4,Back It Up (feat. Pitbull),Back It Up (feat. Pitbull),Prince Royce,2015-05-04,200935,49,0.736,0.0895,0.736,0.743,0.0,0.0482,-7.437,0.0758,104.078,4,Hip-Hop,Spanish,2015
+5,Adrenalina (feat. Jennifer Lopez & Ricky Martin),El Regreso del Sobreviviente (Deluxe Edition),Wisin,2014-03-18,235546,66,0.685,0.0856,0.685,0.944,0.0,0.0927,-2.793,0.145,124.987,4,Hip-Hop,Spanish,2014
+6,Cuando Me Enamoro,Euphoria (Standard US/Latin version),Enrique Iglesias,2010-01-01,200346,66,0.821,0.0104,0.821,0.819,5.49e-05,0.145,-3.627,0.0272,126.03,4,Hip-Hop,Spanish,2010
+7,El Perdedor,SEX AND LOVE,Enrique Iglesias,2014-05-06,191426,39,0.49,0.706,0.49,0.477,0.0,0.112,-5.787,0.049,137.879,4,Hip-Hop,Spanish,2014
+8,I'm A Freak,SEX AND LOVE,Enrique Iglesias,2014-05-06,219346,34,0.711,0.034,0.711,0.805,0.0,0.124,-3.348,0.0602,127.946,4,Hip-Hop,Spanish,2014
+9,There Goes My Baby,SEX AND LOVE,Enrique Iglesias,2014-05-06,198440,31,0.787,0.094,0.787,0.8,0.0,0.0723,-3.201,0.036,104.024,4,Hip-Hop,Spanish,2014
+10,La Mordidita (feat. Yotuel),A Quien Quiera Escuchar (Deluxe Edition),Ricky Martin,2015-02-10,211680,70,0.725,0.0344,0.725,0.903,0.0,0.183,-2.955,0.0658,142.006,4,Hip-Hop,Spanish,2015
+11,La Malquerida,La Malquerida,Cristian Castro,2014-07-08,178613,56,0.484,0.466,0.484,0.629,0.0,0.116,-4.852,0.0385,137.311,3,Hip-Hop,Spanish,2014
+12,Mi Corazón Es Tuyo,Mi Corazón Es Tuyo,Axel,2014-07-15,182720,0,0.543,0.0549,0.543,0.68,0.0,0.0897,-5.01,0.0464,159.991,4,Hip-Hop,Spanish,2014
+13,Dance Again,Dance Again...The Hits,Jennifer Lopez,2012-07-20,237266,67,0.792,0.0159,0.792,0.856,2.88e-06,0.0981,-5.236,0.067,127.988,4,Hip-Hop,Spanish,2012
+14,Ain't Your Mama,Ain't Your Mama,Jennifer Lopez,2016-04-07,218234,72,0.757,0.0472,0.757,0.678,9.14e-06,0.0654,-5.529,0.233,120.075,4,Hip-Hop,Spanish,2016
+15,On The Floor - Radio Edit,On The Floor,Jennifer Lopez,2011-01-01,230906,76,0.758,0.0848,0.758,0.686,0.00127,0.142,-6.346,0.0792,130.007,4,Hip-Hop,Spanish,2011
+16,El Mismo Sol (Under The Same Sun),El Mismo Sol,Alvaro Soler,2015-08-21,187920,0,0.712,0.0551,0.712,0.876,0.0,0.0851,-4.588,0.0705,112.997,4,Hip-Hop,Spanish,2015
+17,DUELE EL CORAZON (feat. Wisin),DUELE EL CORAZON (feat. Wisin),Enrique Iglesias,2016-04-18,200813,72,0.724,0.0786,0.724,0.904,0.0,0.226,-3.354,0.0966,90.999,4,Hip-Hop,Spanish,2016
+18,El Perdedor,"Pretty Boy, Dirty Boy",Maluma,2015-10-30,206693,65,0.702,0.425,0.702,0.73,1.25e-06,0.148,-5.173,0.099,173.967,4,Hip-Hop,Spanish,2015
+19,La Carretera,La Carretera,Prince Royce,2016-05-20,238395,0,0.748,0.618,0.748,0.698,0.0,0.0951,-4.312,0.0305,121.979,4,Hip-Hop,Spanish,2016
+20,Picky,Picky,Joey Montana,2015-06-23,180639,0,0.806,0.151,0.806,0.753,0.0,0.283,-4.702,0.0681,93.267,4,Hip-Hop,Spanish,2015
+21,Culpa al Corazón,Culpa al Corazón,Prince Royce,2015-11-13,221559,0,0.847,0.406,0.847,0.68,0.0,0.0867,-4.835,0.0347,122.986,4,Hip-Hop,Spanish,2015
+22,La Bicicleta,La Bicicleta,Carlos Vives,2016-05-27,227457,1,0.746,0.206,0.746,0.961,1.84e-06,0.329,-2.243,0.13,179.984,4,Hip-Hop,Spanish,2016
+23,Danza Kuduro,Meet The Orphans,Don Omar,2010-01-01,198773,76,0.4,0.0846,0.4,0.915,0.0,0.0503,-4.89,0.28,88.917,3,Hip-Hop,Spanish,2010
+24,La Gozadera (feat. Marc Anthony),Visualízate,Gente De Zona,2016-04-22,203160,74,0.616,0.166,0.616,0.989,0.0,0.172,-1.698,0.0483,95.036,4,Hip-Hop,Spanish,2016
+25,Ginza,Ginza,J Balvin,2015-06-23,170186,0,0.784,0.218,0.784,0.814,0.000436,0.0781,-6.475,0.0806,102.052,4,Hip-Hop,Spanish,2015
+26,Andas En Mi Cabeza,Andas En Mi Cabeza,Chino & Nacho,2016-02-19,247493,72,0.671,0.0244,0.671,0.954,0.0,0.111,-1.87,0.13,104.114,4,Hip-Hop,Spanish,2016
+27,Bobo,Energía,J Balvin,2016-06-24,209426,63,0.742,0.115,0.742,0.893,6.67e-05,0.125,-2.671,0.117,177.879,4,Hip-Hop,Spanish,2016
+28,Travesuras,"Greatest Hits, Vol. 1",Nicky Jam,2014-11-04,195369,42,0.789,0.143,0.789,0.79,0.0,0.106,-5.607,0.0601,93.995,4,Hip-Hop,Spanish,2014
+29,Limbo,Prestige,Daddy Yankee,2012-01-01,224693,51,0.806,0.0838,0.806,0.875,0.00192,0.065,-3.817,0.088,125.063,4,Hip-Hop,Spanish,2012
+30,Ay Vamos,La Familia B Sides,J Balvin,2014-09-16,226413,70,0.718,0.157,0.718,0.711,5.54e-05,0.1,-5.746,0.11,173.916,4,Hip-Hop,Spanish,2014
+31,Borro Cassette,"Pretty Boy, Dirty Boy",Maluma,2015-10-30,207306,72,0.73,0.132,0.73,0.701,0.0,0.151,-5.885,0.106,175.95,4,Hip-Hop,Spanish,2015
+32,Sin Contrato (feat. Fifth Harmony),Sin Contrato (feat. Fifth Harmony),Maluma,2015-11-20,181269,64,0.782,0.144,0.782,0.791,0.0,0.169,-6.038,0.102,96.022,4,Hip-Hop,Spanish,2015
+33,Pretextos (feat. Cosculluela),"Pretty Boy, Dirty Boy",Maluma,2015-10-30,228280,57,0.829,0.253,0.829,0.712,0.0,0.168,-4.959,0.135,86.979,4,Hip-Hop,Spanish,2015
+34,La Curiosidad,PB.DB. The Mixtape,Maluma,2015-03-06,219186,0,0.614,0.122,0.614,0.785,0.000971,0.0729,-5.803,0.0499,168.034,4,Hip-Hop,Spanish,2015
+35,Vente Pa' Ca (feat. Maluma),Vente Pa' Ca (feat. Maluma),Ricky Martin,2016-09-22,259195,74,0.663,0.00431,0.663,0.92,1.69e-05,0.101,-4.07,0.226,99.935,4,Hip-Hop,Spanish,2016
+36,Safari,Energía,J Balvin,2016-06-24,205600,71,0.689,0.531,0.689,0.675,3.17e-06,0.115,-4.281,0.32,180.065,4,Hip-Hop,Spanish,2016
+37,Desde Esa Noche (feat. Maluma),Latina,Thalía,2016-05-06,227693,68,0.78,0.171,0.78,0.929,0.0,0.0677,-0.739,0.0532,95.012,4,Hip-Hop,Spanish,2016
+38,"Diles (feat. Arcangel, Nengo Flow, Dj Luian & Mambo Kings)",Diles,Ozuna,2016-08-26,279276,3,0.805,0.0971,0.805,0.582,0.0,0.163,-5.657,0.0627,117.955,4,Hip-Hop,Spanish,2016
+39,Reggaetón Lento (Bailemos),Primera Cita,CNCO,2016-08-26,222560,74,0.761,0.4,0.761,0.838,0.0,0.176,-3.073,0.0502,93.974,4,Hip-Hop,Spanish,2016
+40,6 AM,La Familia,J Balvin,2013-09-29,243226,68,0.746,0.152,0.746,0.746,0.0,0.274,-5.046,0.102,175.965,4,Hip-Hop,Spanish,2013
+41,Ya Me Enteré,Des/Amor,Reik,2016-06-17,204173,76,0.619,0.502,0.619,0.452,0.0,0.122,-5.449,0.028,131.981,4,Hip-Hop,Spanish,2016
+42,Si me dices que sí (feat. Nicky Jam),Blanco Perla,Cosculluela,2016-10-14,276688,54,0.67,0.189,0.67,0.679,0.0,0.168,-5.618,0.118,172.069,4,Hip-Hop,Spanish,2016
+43,Corazon Sin Cara,Prince Royce,Prince Royce,2010-01-01,211453,73,0.704,0.0489,0.704,0.83,0.0,0.111,-3.139,0.0297,127.104,4,Hip-Hop,Spanish,2010
+44,Chantaje,Chantaje,Shakira,2016-01-01,195612,1,0.859,0.168,0.859,0.756,4.65e-05,0.163,-3.36,0.0643,102.033,4,Hip-Hop,Spanish,2016
+45,Otra vez (feat. J Balvin),Motivan2,Zion & Lennox,2016-09-30,209453,74,0.832,0.0559,0.832,0.772,0.000486,0.44,-5.429,0.1,96.016,4,Hip-Hop,Spanish,2016
+46,Tan Fácil (feat. Wisin) - Urban Remix,Primera Cita,CNCO,2016-08-26,226560,50,0.8,0.136,0.8,0.819,0.0,0.355,-3.391,0.0461,93.055,4,Hip-Hop,Spanish,2016
+47,El Amante,El Amante,Nicky Jam,2017-01-01,219506,0,0.683,0.243,0.683,0.691,0.0,0.14,-5.535,0.0432,179.91,4,Hip-Hop,Spanish,2017
+48,Despacito (Featuring Daddy Yankee),Despacito (Featuring Daddy Yankee),Luis Fonsi,2017-01-13,228200,65,0.659,0.208,0.659,0.802,0.0,0.123,-4.79,0.148,177.936,4,Hip-Hop,Spanish,2017
+49,Soy Peor,Soy Peor,Bad Bunny,2016-12-08,257327,3,0.732,0.679,0.732,0.605,0.0029,0.114,-3.15,0.086,115.942,4,Hip-Hop,Spanish,2016
+50,Dile Que Tu Me Quieres,Dile Que Tu Me Quieres,Ozuna,2016-06-06,226400,1,0.721,0.0998,0.721,0.687,0.0,0.0679,-6.682,0.0782,175.914,4,Hip-Hop,Spanish,2016
+51,Chillax (feat. Ky-Mani Marley),Visionary,Farruko,2015-10-23,197840,69,0.827,0.0724,0.827,0.646,0.0,0.247,-4.727,0.0766,92.057,4,Hip-Hop,Spanish,2015
+52,Traicionera - Remix,Traicionera (Remix),Sebastian Yatra,2016-12-09,208720,42,0.763,0.0312,0.763,0.764,0.0,0.371,-3.96,0.0533,91.036,4,Hip-Hop,Spanish,2016
+53,Privado,Privado,Rvssian,2016-01-01,260000,0,0.739,0.0135,0.739,0.549,0.0,0.112,-6.147,0.178,127.055,4,Hip-Hop,Spanish,2016
+54,Hasta el Amanecer,Fénix,Nicky Jam,2017-01-20,198706,72,0.832,0.282,0.832,0.608,0.0,0.0761,-6.042,0.0385,94.013,4,Hip-Hop,Spanish,2017
+55,El Perdón,Fénix,Nicky Jam,2017-01-20,205906,75,0.628,0.446,0.628,0.69,0.0,0.112,-5.828,0.0511,179.911,4,Hip-Hop,Spanish,2017
+56,Alguien Robo,Alguien Robó,Sebastian Yatra,2017-02-10,223613,52,0.743,0.103,0.743,0.924,0.0,0.178,-2.671,0.097,92.966,4,Hip-Hop,Spanish,2017
+57,Dilema,Dilema,Prince Royce,2017-01-01,250026,0,0.753,0.412,0.753,0.741,0.0,0.101,-5.103,0.0432,124.018,4,Hip-Hop,Spanish,2017
+58,Deja vu,FIVE (Deluxe Edition),Prince Royce,2017-02-24,196480,68,0.732,0.39,0.732,0.801,0.0,0.31,-3.859,0.0327,123.981,4,Hip-Hop,Spanish,2017
+59,SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),Enrique Iglesias,2017-02-24,208162,75,0.684,0.0744,0.684,0.823,0.0,0.111,-3.297,0.0773,91.048,4,Hip-Hop,Spanish,2017
+60,Hey Ma (with Pitbull & J Balvin feat. Camila Cabello) - Spanish Version,Hey Ma (with Pitbull & J Balvin feat. Camila Cabello) [Spanish Version],Pitbull,2017-03-09,194941,56,0.489,0.0277,0.489,0.962,6.18e-06,0.128,-2.597,0.215,104.563,4,Hip-Hop,Spanish,2017
+61,Princesa,Princesa,Río Roma,2017-01-01,224066,0,0.707,0.0262,0.707,0.854,8.08e-06,0.272,-4.749,0.051,103.988,4,Hip-Hop,Spanish,2017
+62,AMG,AMG,Farruko,2017-03-13,216546,8,0.699,0.182,0.699,0.699,0.0,0.15,-6.382,0.0644,81.495,4,Hip-Hop,Spanish,2017
+63,Me llamas (feat. Maluma) - Remix,Me Llamas (feat. Maluma) [Remix],Piso 21,2016-12-02,210322,71,0.76,0.547,0.76,0.838,1.3e-06,0.0664,-3.828,0.0529,93.05,4,Hip-Hop,Spanish,2016
+64,"Si Una Vez (feat. Wisin, Frankie J & Leslie Grace) - If I Once","Si Una Vez (feat. Wisin, Frankie J & Leslie Grace) [If I Once]",Play-N-Skillz,2016-12-02,237919,52,0.516,0.129,0.516,0.732,0.0,0.108,-3.512,0.0955,88.043,4,Hip-Hop,Spanish,2016
+65,Me Enamoré,Me Enamoré,Shakira,2017-01-01,225812,0,0.711,0.211,0.711,0.875,0.000198,0.0862,-2.211,0.104,103.637,4,Hip-Hop,Spanish,2017
+66,Hey DJ - Pop Version,Hey DJ (Pop Version),CNCO,2017-04-06,186986,54,0.721,0.113,0.721,0.734,0.0,0.277,-4.266,0.0841,179.956,4,Hip-Hop,Spanish,2017
+67,Escápate Conmigo,Escápate Conmigo,Wisin,2017-03-31,232786,2,0.747,0.0245,0.747,0.864,4.46e-05,0.0853,-3.181,0.0599,92.028,4,Hip-Hop,Spanish,2017
+68,La Rompe Corazones,La Rompe Corazones,Daddy Yankee,2017-01-13,204520,71,0.685,0.116,0.685,0.859,0.0,0.317,-2.595,0.0553,176.018,4,Hip-Hop,Spanish,2017
+69,En La Intimidad,En La Intimidad,Ozuna,2016-08-06,256130,1,0.749,0.0446,0.749,0.671,0.0,0.101,-7.741,0.0568,113.077,4,Hip-Hop,Spanish,2016
+70,Déjame te explico,Déjame Te Explico,Reykon,2017-03-31,182330,52,0.836,0.26,0.836,0.78,0.0,0.231,-4.448,0.0665,92.994,4,Hip-Hop,Spanish,2017
+71,Hey DJ,Hey DJ,CNCO,2017-04-07,205520,3,0.792,0.0309,0.792,0.819,0.0,0.389,-5.418,0.0867,89.98,4,Hip-Hop,Spanish,2017
+72,Todo Cambio (feat. CNCO),Todo Cambio (feat. CNCO),Becky G,2017-03-24,233840,51,0.747,0.101,0.747,0.869,0.0203,0.228,-3.352,0.0655,103.015,4,Hip-Hop,Spanish,2017
+73,La Temperatura (feat. Eli Palacios),PB.DB. The Mixtape,Maluma,2015-03-06,224786,0,0.763,0.0515,0.763,0.82,4.65e-05,0.316,-4.873,0.0373,119.971,4,Hip-Hop,Spanish,2015
+74,Carnaval,PB.DB. The Mixtape,Maluma,2015-03-06,212040,0,0.74,0.0365,0.74,0.859,1.08e-05,0.0639,-4.742,0.033,130.011,4,Hip-Hop,Spanish,2015
+75,Volverte a Ver,Primera Cita,CNCO,2016-08-26,251306,51,0.684,0.17,0.684,0.868,0.0,0.139,-4.521,0.0451,90.025,4,Hip-Hop,Spanish,2016
+76,Para Enamorarte,Primera Cita,CNCO,2016-08-26,188533,57,0.817,0.0924,0.817,0.676,0.0,0.0988,-4.607,0.0379,115.999,4,Hip-Hop,Spanish,2016
+77,Quisiera,Primera Cita,CNCO,2016-08-26,185240,58,0.663,0.147,0.663,0.874,0.0,0.367,-3.783,0.0506,91.85,4,Hip-Hop,Spanish,2016
+78,Felices los 4,Felices los 4,Maluma,2017-04-21,229848,5,0.755,0.231,0.755,0.789,0.0,0.351,-4.502,0.146,93.973,4,Hip-Hop,Spanish,2017
+79,Cien,Primera Cita,CNCO,2016-08-26,187746,50,0.606,0.205,0.606,0.63,0.0,0.0966,-4.472,0.0474,160.171,4,Hip-Hop,Spanish,2016
+80,Besándote,Besándote,Piso 21,2017-04-21,181048,59,0.724,0.0345,0.724,0.809,0.0,0.169,-4.96,0.056,95.037,4,Hip-Hop,Spanish,2017
+81,Casi Nada - Nando Pro Remix,Casi Nada (Nando Pro Remix),KAROL G,2016-08-26,203160,0,0.746,0.0438,0.746,0.815,0.0,0.238,-5.018,0.0362,101.989,4,Hip-Hop,Spanish,2016
+82,Hoy Tengo Ganas De Ti,Hoy Tengo Ganas De Ti,Alejandro Fernández,2013-01-01,291253,46,0.387,0.312,0.387,0.472,0.0,0.0687,-6.5,0.0392,123.654,4,Hip-Hop,Spanish,2013
+83,No Me Doy Por Vencido,Palabras Del Silencio,Luis Fonsi,2008-01-01,238360,47,0.352,0.435,0.352,0.651,0.0,0.609,-6.413,0.0851,172.357,3,Hip-Hop,Spanish,2008
+84,Loca (feat. Cali y El Dandee),Loca (feat. Cali y El Dandee),Maite Perroni,2017-05-12,234366,64,0.751,0.11,0.751,0.839,0.0,0.0865,-3.367,0.054,95.019,4,Hip-Hop,Spanish,2017
+85,Enamorate,Justo Ahora,Dvicio,2014-09-08,194893,57,0.665,0.285,0.665,0.843,0.0,0.422,-4.215,0.0355,93.993,4,Hip-Hop,Spanish,2014
+86,SUBEME LA RADIO REMIX (feat. CNCO),SUBEME LA RADIO REMIX (feat. CNCO),Enrique Iglesias,2017-05-12,206933,48,0.702,0.0647,0.702,0.8,0.0,0.212,-3.769,0.0717,91.032,4,Hip-Hop,Spanish,2017
+87,A Ella,A Ella,KAROL G,2017-05-05,198720,55,0.73,0.244,0.73,0.769,2.06e-05,0.136,-4.936,0.178,181.931,4,Hip-Hop,Spanish,2017
+88,Ahora Que Te Vas,Renacer,Christian Daniel,2015-10-23,228600,53,0.658,0.544,0.658,0.632,0.0,0.162,-4.774,0.0338,139.992,4,Hip-Hop,Spanish,2015
+89,Tu Respiración,En Todo Estaré (Deluxe Edition),Chayanne,2014-08-25,250866,54,0.549,0.00481,0.549,0.796,0.0,0.0797,-4.585,0.0309,131.953,4,Hip-Hop,Spanish,2014
+90,Hasta Que Se Seque el Malecón (feat. Farruko) - Remix,Invicto,Jacob Forever,2017-02-06,215453,60,0.785,0.362,0.785,0.838,6.43e-06,0.139,-5.951,0.0381,100.066,4,Hip-Hop,Spanish,2017
+91,Mátame Otra Vez,A Quien Quiera Escuchar (Deluxe Edition),Ricky Martin,2015-02-10,243480,45,0.708,0.174,0.708,0.709,0.0,0.0824,-6.722,0.17,139.813,4,Hip-Hop,Spanish,2015
+92,Voy Que Quemo,Voy Que Quemo,Mau y Ricky,2016-04-15,218600,41,0.759,0.035,0.759,0.726,0.00037,0.321,-6.093,0.0828,104.978,4,Hip-Hop,Spanish,2016
+93,Para Olvidarte,Para Olvidarte,Mau y Ricky,2016-11-18,257079,0,0.535,0.455,0.535,0.485,0.0,0.112,-6.994,0.0332,84.036,3,Hip-Hop,Spanish,2016
+94,Por Fin Te Encontré,Por Fin Te Encontré,Cali Y El Dandee,2015-09-24,250836,70,0.645,0.0492,0.645,0.821,0.0,0.193,-3.679,0.213,179.968,4,Hip-Hop,Spanish,2015
+95,Como Mirarte,Como Mirarte,Sebastian Yatra,2015-10-20,227339,56,0.298,0.702,0.298,0.362,0.0,0.28,-7.331,0.0326,83.263,4,Hip-Hop,Spanish,2015
+96,Mamasita,Mamasita,Yashua,2017-05-18,161970,26,0.856,0.0934,0.856,0.622,7.51e-05,0.0571,-5.927,0.2,103.006,4,Hip-Hop,Spanish,2017
+97,Loca (feat. El Cata),Sale el Sol,Shakira,2010-10-19,183693,67,0.8,0.342,0.8,0.692,1.92e-06,0.0554,-5.57,0.0614,112.002,4,Hip-Hop,Spanish,2010
+98,Trap (feat. Maluma),El Dorado,Shakira,2017-05-26,199813,59,0.774,0.556,0.774,0.504,0.0,0.128,-6.843,0.0552,132.009,4,Hip-Hop,Spanish,2017
+99,Perro Fiel (feat. Nicky Jam),El Dorado,Shakira,2017-05-26,195213,70,0.75,0.187,0.75,0.76,0.0,0.0548,-4.836,0.198,183.817,4,Hip-Hop,Spanish,2017
+0,MAMACITA,MAMACITA,Black Eyed Peas,2020-04-10,249142,90,0.894,0.193,0.894,0.635,0.00105,0.0823,-6.929,0.0473,105.013,4,Hip-Hop,Spanish,2020
+1,Yo Perreo Sola,YHLQMDLG,Bad Bunny,2020-02-28,172127,89,0.86,0.021,0.86,0.758,6.54e-05,0.344,-5.16,0.0695,97.014,4,Hip-Hop,Spanish,2020
+2,La Jeepeta,La Jeepeta,Nio Garcia,2020-01-02,204809,78,0.816,0.48,0.816,0.726,1.41e-06,0.314,-5.334,0.267,175.933,4,Hip-Hop,Spanish,2020
+3,Caramelo,Caramelo,Ozuna,2020-06-11,217546,93,0.728,0.0531,0.728,0.806,0.000301,0.153,-3.766,0.0623,168.084,4,Hip-Hop,Spanish,2020
+4,"Agua (with J Balvin) - Music From ""Sponge On The Run"" Movie","Agua (with J Balvin) [Music From ""Sponge On The Run"" Movie]",Tainy,2020-07-09,157944,92,0.76,0.162,0.76,0.658,0.0,0.195,-5.275,0.275,100.202,4,Hip-Hop,Spanish,2020
+5,Relación,Relación,Sech,2020-04-02,184254,86,0.805,0.125,0.805,0.562,4.96e-06,0.148,-3.117,0.105,172.094,4,Hip-Hop,Spanish,2020
+6,Tattoo - Remix with Camilo,Tattoo (Remix with Camilo),Rauw Alejandro,2020-07-09,222680,92,0.848,0.0413,0.848,0.637,0.0,0.0521,-5.132,0.156,96.988,4,Hip-Hop,Spanish,2020
+7,Camarero,Camarero,Andra,2019-06-18,178442,56,0.769,0.328,0.769,0.924,0.0,0.136,-2.771,0.0595,115.084,4,Hip-Hop,Spanish,2019
+8,La Difícil,YHLQMDLG,Bad Bunny,2020-02-28,163084,85,0.685,0.0861,0.685,0.848,7.14e-06,0.0783,-4.561,0.0858,179.87,4,Hip-Hop,Spanish,2020
+9,TKN (feat. Travis Scott),TKN (feat. Travis Scott),ROSALÍA,2020-05-28,129370,92,0.776,0.192,0.776,0.509,1.49e-06,0.115,-6.266,0.467,94.634,4,Hip-Hop,Spanish,2020
+10,PORFA - Remix,PORFA (Remix),Various Artists,2020-06-26,333400,78,0.792,0.0939,0.792,0.736,1.06e-06,0.075,-4.764,0.0815,167.915,4,Hip-Hop,Spanish,2020
+11,Fútbol & Rumba (feat. Enrique Iglesias),Emmanuel,Anuel AA,2020-05-29,221428,82,0.735,0.397,0.735,0.916,2.91e-06,0.0918,-2.082,0.117,167.994,4,Hip-Hop,Spanish,2020
+12,Sudamericana (feat. Pachanga),Sudamericana,Andra,2018-06-08,195742,53,0.596,0.18,0.596,0.765,0.0,0.0822,-5.691,0.215,181.991,4,Hip-Hop,Spanish,2018
+13,ADMV,ADMV,Maluma,2020-04-23,193699,84,0.565,0.817,0.565,0.39,0.0,0.126,-4.959,0.0556,163.781,4,Hip-Hop,Spanish,2020
+14,"Ay, DiOs Mío!","Ay, DiOs Mío!",KAROL G,2020-07-10,189653,89,0.718,0.512,0.718,0.712,0.00121,0.104,-4.366,0.174,180.034,4,Hip-Hop,Spanish,2020
+15,Carita de Inocente (feat. Myke Towers) - Remix,Carita de Inocente (feat. Myke Towers) [Remix],Prince Royce,2020-06-01,192698,83,0.565,0.364,0.565,0.781,0.0,0.0984,-3.358,0.061,129.959,4,Hip-Hop,Spanish,2020
+16,PAM,PAM,Justin Quiles,2020-05-01,201000,86,0.889,0.289,0.889,0.863,0.000603,0.0798,-3.011,0.0757,112.953,4,Hip-Hop,Spanish,2020
+17,Rojo,Rojo,J Balvin,2020-02-27,150853,84,0.652,0.15,0.652,0.595,0.000115,0.0842,-4.04,0.113,172.27,4,Hip-Hop,Spanish,2020
+18,CÓMO SE SIENTE - Remix,Música para Trapear,Various Artists,2020-05-29,227520,38,0.807,0.0946,0.807,0.606,0.0,0.119,-8.871,0.088,92.988,4,Hip-Hop,Spanish,2020
+19,La Tóxica,La Tóxica,Farruko,2020-07-24,180520,77,0.659,0.0882,0.659,0.701,0.0,0.0866,-4.107,0.164,91.97,4,Hip-Hop,Spanish,2020
+20,La Curiosidad,Platonicos,Jay Wheeler,2020-06-12,219048,92,0.845,0.269,0.845,0.677,0.000917,0.108,-4.798,0.136,90.013,4,Hip-Hop,Spanish,2020
+21,Bésame,Bésame,Play-N-Skillz,2020-06-19,212840,77,0.67,0.0164,0.67,0.865,7.4e-06,0.12,-2.469,0.035,97.008,4,Hip-Hop,Spanish,2020
+22,Si Me Dices Que Sí,Si Me Dices Que Sí,Reik,2020-02-18,211651,83,0.578,0.00473,0.578,0.634,0.0,0.132,-5.979,0.333,183.89,4,Hip-Hop,Spanish,2020
+23,Sigues Con El - Remix,Sigues Con El (Remix),Arcangel,2020-04-10,189566,83,0.747,0.102,0.747,0.693,2.61e-06,0.0872,-2.97,0.298,175.994,4,Hip-Hop,Spanish,2020
+24,Favorito,Favorito,Camilo,2020-03-26,211613,85,0.611,0.229,0.611,0.851,0.0,0.232,-2.982,0.0598,178.032,4,Hip-Hop,Spanish,2020
+25,Muévelo,Muévelo,Nicky Jam,2020-01-08,194892,82,0.595,0.416,0.595,0.807,1.41e-05,0.565,-2.409,0.0489,188.081,4,Hip-Hop,Spanish,2020
+26,YAYA,YAYA,6ix9ine,2020-07-03,149857,81,0.672,0.00289,0.672,0.733,0.0,0.199,-5.377,0.0566,105.043,4,Hip-Hop,Spanish,2020
+27,Keii,Keii,Anuel AA,2020-02-07,210000,78,0.708,0.4,0.708,0.797,0.0,0.096,-3.095,0.0391,88.015,4,Hip-Hop,Spanish,2020
+28,Me Gusta,Me Gusta,Shakira,2020-01-13,190570,82,0.775,0.0559,0.775,0.696,0.00184,0.157,-5.184,0.0681,92.007,4,Hip-Hop,Spanish,2020
+29,Como Llora,Como Llora,Juanfran,2020-02-07,187500,85,0.827,0.183,0.827,0.629,0.0,0.084,-3.966,0.185,88.064,4,Hip-Hop,Spanish,2020
+30,Quiéreme Mientras Se Pueda,Quiéreme Mientras Se Pueda,Manuel Turizo,2020-05-01,191945,84,0.793,0.447,0.793,0.782,0.0,0.124,-3.945,0.0582,143.86,4,Hip-Hop,Spanish,2020
+31,Diosa,Easy Money Baby,Myke Towers,2020-01-24,214013,85,0.801,0.398,0.801,0.745,0.00603,0.153,-3.733,0.063,104.965,4,Hip-Hop,Spanish,2020
+32,Definitivamente,Definitivamente,Daddy Yankee,2020-01-31,217773,79,0.813,0.586,0.813,0.764,0.0,0.253,-3.39,0.105,100.047,4,Hip-Hop,Spanish,2020
+33,Relaciones,Relaciones,Lunay,2020-07-16,206896,77,0.683,0.425,0.683,0.787,0.0,0.136,-2.962,0.0841,173.941,4,Hip-Hop,Spanish,2020
+34,Girl,Easy Money Baby,Myke Towers,2020-01-24,186426,79,0.733,0.0325,0.733,0.708,0.000327,0.324,-4.957,0.0937,93.021,4,Hip-Hop,Spanish,2020
+35,Aventura,Épico,Lunay,2019-10-25,217129,77,0.729,0.223,0.729,0.726,0.0,0.101,-3.208,0.0422,92.025,4,Hip-Hop,Spanish,2019
+36,Tusa,Tusa,KAROL G,2019-11-07,200960,91,0.803,0.295,0.803,0.715,0.000134,0.0574,-3.28,0.298,101.085,4,Hip-Hop,Spanish,2019
+37,Que Tire Pa Lante,Que Tire Pa Lante,Daddy Yankee,2019-10-18,210520,79,0.658,0.0478,0.658,0.901,0.0,0.12,-2.814,0.0357,93.979,4,Hip-Hop,Spanish,2019
+38,LA CANCIÓN,OASIS,J Balvin,2019-06-28,242573,85,0.754,0.152,0.754,0.646,1.85e-05,0.108,-5.795,0.317,176.089,4,Hip-Hop,Spanish,2019
+39,Fantasía,Nibiru,Ozuna,2019-11-29,175186,71,0.695,0.227,0.695,0.719,0.000171,0.0884,-5.938,0.0903,180.074,4,Hip-Hop,Spanish,2019
+40,Me Quedaré Contigo,Libertad 548,Pitbull,2019-09-27,226773,1,0.671,0.0593,0.671,0.918,0.0,0.206,-3.588,0.0774,92.132,4,Hip-Hop,Spanish,2019
+41,"Yo x Ti, Tu x Mi","Yo x Ti, Tu x Mi",ROSALÍA,2019-08-15,201040,80,0.78,0.462,0.78,0.759,0.000868,0.143,-3.292,0.225,91.952,4,Hip-Hop,Spanish,2019
+42,La Mejor Versión de Mi - Remix,La Mejor Versión de Mi (Remix),Natti Natasha,2019-10-04,229333,78,0.735,0.732,0.735,0.712,0.0,0.302,-5.119,0.0326,131.938,4,Hip-Hop,Spanish,2019
+43,Qué Pena,Qué Pena,Maluma,2019-09-27,212711,76,0.635,0.102,0.635,0.661,0.0,0.336,-6.425,0.364,126.15,5,Hip-Hop,Spanish,2019
+44,Que Calor (feat. J Balvin & El Alfa),Que Calor (feat. J Balvin & El Alfa),Major Lazer,2019-09-11,169997,77,0.795,0.0375,0.795,0.885,0.00638,0.292,-4.13,0.0713,126.037,4,Hip-Hop,Spanish,2019
+45,Adicto (with Anuel AA & Ozuna),Adicto (with Anuel AA & Ozuna),Tainy,2019-08-22,270740,82,0.734,0.017,0.734,0.836,1.64e-05,0.179,-4.803,0.0735,80.002,4,Hip-Hop,Spanish,2019
+46,MALA SANTA,MALA SANTA,Becky G,2019-10-11,173834,64,0.851,0.311,0.851,0.701,0.000211,0.163,-3.649,0.0396,98.039,4,Hip-Hop,Spanish,2019
+47,Whine Up,Intimo,Nicky Jam,2019-11-01,215459,78,0.817,0.0549,0.817,0.665,0.0,0.103,-6.224,0.0758,104.957,4,Hip-Hop,Spanish,2019
+48,Bonita,Bonita,Juanes,2019-09-06,147493,70,0.745,0.255,0.745,0.881,0.0,0.25,-2.587,0.0506,157.985,4,Hip-Hop,Spanish,2019
+49,La Cartera,Gangalee,Farruko,2019-04-26,289906,71,0.771,0.0385,0.771,0.796,9.35e-06,0.218,-4.106,0.0798,87.985,4,Hip-Hop,Spanish,2019
+50,Gistro Amarillo,Gistro Amarillo,Ozuna,2020-07-23,230876,72,0.798,0.214,0.798,0.846,0.0,0.0906,-3.761,0.178,92.064,4,Hip-Hop,Spanish,2020
+51,Hawái,Hawái,Maluma,2020-07-29,200197,87,0.787,0.189,0.787,0.728,2.29e-05,0.0629,-3.455,0.389,180.066,4,Hip-Hop,Spanish,2020
+52,UN DIA (ONE DAY) (Feat. Tainy),UN DIA (ONE DAY) (Feat. Tainy),J Balvin,2020-07-24,232253,93,0.571,0.00536,0.571,0.693,0.0,0.173,-8.234,0.0545,168.169,4,Hip-Hop,Spanish,2020
+53,Dembow 2020,Quien Contra Mi 2,Yandel,2020-07-31,168051,78,0.786,0.122,0.786,0.811,3.99e-06,0.161,-4.31,0.0836,92.953,4,Hip-Hop,Spanish,2020
+54,No Se Te Dió,Now Or Never,Nio Garcia,2020-07-24,258526,71,0.808,0.23,0.808,0.68,6.21e-05,0.11,-5.181,0.176,176.046,4,Hip-Hop,Spanish,2020
+55,Azul,BAILANDO EN CUARENTENA,Various Artists,2020-06-05,206373,36,0.842,0.101,0.842,0.828,0.00179,0.0579,-2.495,0.0696,94.019,4,Hip-Hop,Spanish,2020
+56,Por Primera Vez,Por Primera Vez,Camilo,2020-03-09,183546,78,0.716,0.152,0.716,0.588,0.0,0.0847,-3.952,0.116,165.896,4,Hip-Hop,Spanish,2020
+57,Hasta Que Dios Diga,Emmanuel,Anuel AA,2020-05-29,246000,90,0.691,0.464,0.691,0.765,3.29e-06,0.203,-4.727,0.111,174.021,4,Hip-Hop,Spanish,2020
+58,Elegí (feat. Dímelo Flow),Elegí (feat. Dímelo Flow),Rauw Alejandro,2020-03-26,197721,89,0.824,0.237,0.824,0.631,0.000116,0.0531,-2.791,0.0809,171.965,4,Hip-Hop,Spanish,2020
+59,Reggaetonera,Emmanuel,Anuel AA,2020-05-29,212312,86,0.694,0.48,0.694,0.796,0.000384,0.108,-4.164,0.0565,93.064,4,Hip-Hop,Spanish,2020
+60,Ella Dice,Ella Dice,TINI,2020-07-15,161060,79,0.838,0.221,0.838,0.751,2.23e-06,0.133,-2.864,0.0812,91.982,4,Hip-Hop,Spanish,2020
+61,No Bailes Sola,No Bailes Sola,Danna Paola,2020-07-17,180866,81,0.598,0.208,0.598,0.734,0.0,0.272,-3.982,0.116,179.885,4,Hip-Hop,Spanish,2020
+62,Mi Niña,Mi Niña,Ozuna,2020-06-18,209826,73,0.679,0.18,0.679,0.706,0.0,0.0784,-4.853,0.0836,170.047,4,Hip-Hop,Spanish,2020
+63,Anaranjado,Anaranjado,Jowell & Randy,2020-07-16,212010,82,0.763,0.0466,0.763,0.58,1.6e-05,0.154,-6.196,0.144,175.937,4,Hip-Hop,Spanish,2020
+64,Que Mal Te Fue,Que Mal Te Fue,Natti Natasha,2020-06-01,212906,78,0.782,0.0941,0.782,0.706,0.000208,0.115,-4.337,0.19,173.899,4,Hip-Hop,Spanish,2020
+65,Safaera,YHLQMDLG,Bad Bunny,2020-02-28,295176,89,0.607,0.0103,0.607,0.829,0.0,0.107,-4.074,0.379,96.172,4,Hip-Hop,Spanish,2020
+66,Fantasias - Remix,Fantasias (Remix) [feat. Farruko & Lunay],Rauw Alejandro,2020-03-06,267241,80,0.816,0.206,0.816,0.72,0.0,0.277,-4.454,0.0684,94.004,4,Hip-Hop,Spanish,2020
+67,Me perdiste,Me perdiste,Kim Loaiza,2020-07-09,141198,73,0.788,0.284,0.788,0.725,0.0,0.092,-3.8,0.128,100.015,4,Hip-Hop,Spanish,2020
+68,Si Veo a Tu Mamá,YHLQMDLG,Bad Bunny,2020-02-28,170971,85,0.9,0.402,0.9,0.603,4.81e-06,0.134,-5.313,0.0646,129.928,4,Hip-Hop,Spanish,2020
+69,ADMV - Versión Urbana,ADMV (Versión Urbana),Maluma,2020-05-15,185263,78,0.733,0.217,0.733,0.591,0.0,0.0986,-4.046,0.148,169.905,4,Hip-Hop,Spanish,2020
+70,El Mismo Aire - con Pablo Alborán,El Mismo Aire (con Pablo Alborán),Camilo,2020-06-10,188213,86,0.483,0.603,0.483,0.492,0.0,0.323,-6.591,0.295,144.511,4,Hip-Hop,Spanish,2020
+71,Los Consejos,Los Consejos,Greeicy,2020-07-03,176440,54,0.698,0.171,0.698,0.537,0.0,0.105,-6.288,0.0913,158.036,4,Hip-Hop,Spanish,2020
+72,+Linda,+Linda,Dalex,2020-04-20,161748,82,0.66,0.131,0.66,0.503,0.0,0.13,-5.501,0.34,175.896,4,Hip-Hop,Spanish,2020
+73,Los Besos,Los Besos,Greeicy,2020-04-16,202733,78,0.503,0.0756,0.503,0.762,9.84e-06,0.0919,-4.263,0.298,167.936,4,Hip-Hop,Spanish,2020
+74,Infiel - Remix,Infiel (Remix),Eix,2020-07-02,297760,73,0.793,0.346,0.793,0.66,0.0,0.134,-3.7,0.28,87.922,4,Hip-Hop,Spanish,2020
+75,Inolvidable,Inolvidable,Ovy On The Drums,2020-01-15,225812,81,0.84,0.678,0.84,0.543,0.0,0.128,-4.941,0.0568,139.929,4,Hip-Hop,Spanish,2020
+76,Ignorantes,Ignorantes,Bad Bunny,2020-02-14,210606,81,0.85,0.267,0.85,0.536,3.89e-05,0.0996,-5.161,0.0599,96.029,4,Hip-Hop,Spanish,2020
+77,Fabuloso,1 of 1,Sech,2020-05-21,200494,82,0.637,0.0846,0.637,0.785,0.000239,0.0392,-2.612,0.166,87.4,4,Hip-Hop,Spanish,2020
+78,Mi Cuarto,DI LETRA,Jerry Di,2020-04-03,197586,74,0.854,0.819,0.854,0.525,0.0,0.146,-4.426,0.214,97.054,4,Hip-Hop,Spanish,2020
+79,El Equivocado,El Equivocado,Andrés Cepeda,2020-05-11,219040,54,0.549,0.27,0.549,0.64,0.0,0.0998,-7.531,0.0337,162.002,4,Hip-Hop,Spanish,2020
+80,Verde,Colores,J Balvin,2020-03-19,142546,75,0.828,0.0381,0.828,0.738,0.473,0.0917,-4.295,0.0516,94.995,4,Hip-Hop,Spanish,2020
+81,Follow,Follow,KAROL G,2020-04-01,203093,78,0.735,0.667,0.735,0.787,6.15e-06,0.0721,-4.375,0.16,168.997,4,Hip-Hop,Spanish,2020
+82,CANCIÓN CON YANDEL,LAS QUE NO IBAN A SALIR,Bad Bunny,2020-05-10,209180,83,0.75,0.447,0.75,0.741,0.0,0.121,-4.43,0.402,79.968,4,Hip-Hop,Spanish,2020
+83,La Cama - Remix,La Cama (Remix),Lunay,2020-03-27,330240,82,0.737,0.12,0.737,0.832,0.0,0.255,-2.622,0.0798,173.986,4,Hip-Hop,Spanish,2020
+84,Jangueo,LOST,Alex Rose,2019-11-08,259600,86,0.851,0.238,0.851,0.688,1.93e-05,0.105,-4.038,0.0565,103.982,4,Hip-Hop,Spanish,2019
+85,Tócame (feat. Arcangel & De La Ghetto),Tócame (feat. Arcangel & De La Ghetto),Anitta,2020-07-10,166264,80,0.785,0.0205,0.785,0.74,8.28e-05,0.22,-5.374,0.172,100.057,4,Hip-Hop,Spanish,2020
+86,Te Mueves,Te Mueves,Zion & Lennox,2020-07-17,232421,74,0.755,0.0541,0.755,0.804,4.78e-05,0.175,-4.3,0.151,95.067,4,Hip-Hop,Spanish,2020
+87,La Bella y la Bestia,La Bella y la Bestia,Reik,2020-06-11,186359,79,0.625,0.0254,0.625,0.759,0.0,0.114,-4.861,0.0592,89.951,4,Hip-Hop,Spanish,2020
+88,Olvidando,Olvidando,Brytiago,2020-07-14,229013,65,0.767,0.12,0.767,0.672,6.18e-05,0.695,-4.455,0.182,171.996,4,Hip-Hop,Spanish,2020
+89,Algo Mágico,Algo Mágico,Rauw Alejandro,2020-06-25,261603,75,0.68,0.758,0.68,0.613,0.0,0.161,-4.368,0.0818,100.127,4,Hip-Hop,Spanish,2020
+90,Honey Boo,Honey Boo,CNCO,2020-04-03,206986,75,0.803,0.153,0.803,0.642,1.76e-06,0.14,-3.759,0.217,170.037,4,Hip-Hop,Spanish,2020
+91,Dream Girl - Remix,Dream Girl (Remix),Ir Sais,2019-12-06,192452,84,0.767,0.216,0.767,0.643,0.000104,0.0806,-5.225,0.101,169.99,4,Hip-Hop,Spanish,2019
+92,Hola - Remix,Hola (Remix),Dalex,2019-11-01,249520,85,0.654,0.471,0.654,0.672,0.0,0.0781,-5.98,0.311,181.857,4,Hip-Hop,Spanish,2019
+93,Bellaquita,Bellaquita,Dalex,2019-09-06,204786,75,0.584,0.09,0.584,0.698,6.87e-05,0.171,-3.961,0.106,166.047,4,Hip-Hop,Spanish,2019
+94,Nada,Error 93,Cazzu,2019-06-03,305113,74,0.898,0.343,0.898,0.543,0.000623,0.338,-8.317,0.121,98.992,4,Hip-Hop,Spanish,2019
+95,"DJ No Pare (feat. Zion, Dalex, Lenny Tavárez) - Remix","DJ No Pare (feat. Zion, Dalex, Lenny Tavárez) [Remix]",Justin Quiles,2019-09-06,258600,79,0.743,0.0451,0.743,0.709,5.18e-06,0.0809,-3.922,0.0879,170.001,4,Hip-Hop,Spanish,2019
+96,Loco - Remix,Loco (Remix),Various Artists,2020-04-24,248499,81,0.908,0.157,0.908,0.529,0.000142,0.0634,-7.032,0.135,105.021,4,Hip-Hop,Spanish,2020
+97,Feel Me,The Academy,Rich Music LTD,2019-10-11,300266,78,0.769,0.12,0.769,0.747,7.48e-06,0.0417,-4.56,0.127,81.034,4,Hip-Hop,Spanish,2019
+98,Ella No Quiere Rosé,Ella No Quiere Rosé,Rvfv,2019-11-22,182500,60,0.861,0.162,0.861,0.599,1.09e-05,0.0322,-6.162,0.142,95.99,4,Hip-Hop,Spanish,2019
+99,Morado,Morado,J Balvin,2020-01-09,200666,81,0.881,0.137,0.881,0.696,4.13e-05,0.0927,-3.838,0.0797,97.002,4,Hip-Hop,Spanish,2020
