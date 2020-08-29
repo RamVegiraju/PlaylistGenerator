@@ -1,32 +1,34 @@
-from flask import Flask, request, jsonify, render_template
-from flaskext.markdown import Markdown
+from flask import Flask, request, jsonify, render_template, session, redirect, url_for, session
+#from flask_wtf import FlaskForm
+#from wtforms import TextField,SubmitField
+#from wtforms.validators import NumberRange
 import requests
 import pandas as pd
 import numpy as np
 import pickle
-from functions import processGenre, processLanguage, getPredictions
+import joblib
+from functions import getPredictions
 
 
 model_knn = pickle.load(open('recommenderModel','rb'))
-#print(getPredictions("Rap","English",['Eminem','Meek Mill','Future'],10))
 
 
-"""
 app = Flask(__name__)
-@app.route('/')
-def index():
-    return render_template('index.html')
 
+@app.route('/')
+def home():
+    return render_template('form.html')
+
+@app.route('/', methods = ['POST'])
+def getvalue():
+    artistUser = request.form['artists']
+    genreUser = str(request.form['genre'])
+    languageUser = str(request.form['language'])
+    playlistSizeUser = int(request.form['playlistsize'])
+    recommendations = getPredictions(genreUser, languageUser,artistUser, playlistSizeUser)
+    return str(artistUser)
 
 if __name__ =='__main__':
     app.run(debug=True)
-"""
 
-"""
-@app.route('/', methods = ["GET","POST"]) 
-def index():
-    if request.method == "POST":
-        input_text = request.form.get('url')
-        print("This is a test right now.")
-    return render_template("index.html")
-"""
+

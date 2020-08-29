@@ -94,6 +94,10 @@ def getPredictions(genre, language, favorite_artists, playlistSize):
     notPopular = playlist[playlist['popularity'] < 40].index #drops songs with less than 40 popularity
     playlist.drop(notPopular, inplace=True)
     playlist = playlist.drop(['ContainsArtist','popularity','release_year'], axis=1)
-    return playlist.head(playlistSize)
+    playlist.columns = ['Song','Artist']
+    playlist = playlist.iloc[0:playlistSize]
+    #playlist = playlist.head(playlistSize)
+    #playlist = playlist.to_dict()
+    return playlist
 
-#print(getPredictions("Rap","English",['Eminem','Meek Mill','Future'],10))
+print(getPredictions("Rap","English",['Eminem','Meek Mill','Future'],10))
