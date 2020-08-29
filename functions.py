@@ -1,8 +1,31 @@
 #functions for model building and EDA
+import pandas as pd
+import numpy as np 
+import matplotlib.pyplot as plt
 from sklearn.preprocessing import OrdinalEncoder
+import seaborn as sns
+from sklearn.preprocessing import StandardScaler
+from sklearn.neighbors import NearestNeighbors
 
-#Encoding the categorical variables
-def encodeData(df):
+
+data = pd.read_csv('Data/SpotifyData.csv')
+
+def processData(df):
+    """Preprocesses and encodes the data
+        #Genre:
+        #sad: 5
+        #romantic: 4
+        #jazz: 3
+        #Throwback: 2
+        #Rap: 1
+        #Hip-Hop: 0
+
+        #Language:
+        #Spanish: 2
+        #Hindi: 1
+        #English: 0
+    """
+    df = df.drop(['Unnamed: 0','Unnamed: 0.1'],axis=1)
     enc = OrdinalEncoder()
     encodedVariables = df[['Genre/Mood','Language']]
     enc.fit(encodedVariables[["Genre/Mood","Language"]])
@@ -11,28 +34,58 @@ def encodeData(df):
     df['encodedGenre'] = encodedVariables['Genre/Mood']
     return df
 
-#Model Creation
+df = processData(data)
+
 def model(df):
+    """Model creation"""
     data = df[['encodedGenre','encodedLanguage']]
     model_knn = NearestNeighbors(metric='cosine', algorithm='brute', n_neighbors=150, n_jobs=-1).fit(data)
     distances, indices = model_knn.kneighbors(data)
     return model_knn
 
+model_knn = model(df)
+
+def processGenre(genre):
+    """Process Genre from front-end and encode for model to understand"""
+    if genre == 'Hip-Hop':
+        genre = 0
+    elif genre == 'Rap':
+        genre = 1
+    elif genre == 'Throwback':
+        genre = 2
+    elif genre == 'Jazz':
+        genre = 3
+    elif genre == 'Romantic':
+        genre = 4
+    elif genre == 'Sad':
+        genre = 5
+    return genre
+
+def processLanguage(language):
+    """Process language from front-end and encode for model to understand"""
+    if language == 'English':
+        language = 0
+    elif language == 'Hindi':
+        language = 1
+    elif language == 'Spanish':
+        language = 2
+    return language
+
 def getPredictions(genre, language, favorite_artists, playlistSize):
-    """
-    Factors in genre, language, list of favorite artists, and the size of the playlist you want
-    """
+    """Inference function"""
+    genre = processGenre(genre)
+    language = processLanguage(language)
     results = model_knn.kneighbors([[genre, language]])
     results = results[1]
     resultList = results.tolist()
     resultList = resultList[0]
     playlist = df.loc[resultList]
     playlist = playlist[['name','artist','popularity','release_year']]
-    playlist['ContainsArtist'] = playlist['artist'].apply(lambda x: any([k in x for k in favorite_artists])) #checks for favorite artist
-    playlist = playlist.sort_values(["ContainsArtist","popularity"],ascending = (False, False))
-    notPopular = playlist[playlist['popularity'] < 40].index
+    playlist['ContainsArtist'] = playlist['artist'].apply(lambda x: any([k in x for k in favorite_artists])) #searches for favorite artists
+    playlist = playlist.sort_values(["ContainsArtist","popularity"],ascending = (False, False)) #sorts favorite artists by popularity of song
+    notPopular = playlist[playlist['popularity'] < 40].index #drops songs with less than 40 popularity
     playlist.drop(notPopular, inplace=True)
+    playlist = playlist.drop(['ContainsArtist','popularity','release_year'], axis=1)
     return playlist.head(playlistSize)
 
-
-#print("All is good right now")
+print(getPredictions("Rap","English",['Eminem','Meek Mill','Future'],10))
