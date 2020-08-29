@@ -3,16 +3,16 @@ from flaskext.markdown import Markdown
 import requests
 import pandas as pd
 import numpy as np
+import pickle
+from functions import processGenre, processLanguage, getPredictions
 
-app = Flask(__name__)
+
+model_knn = pickle.load(open('recommenderModel','rb'))
+#print(getPredictions("Rap","English",['Eminem','Meek Mill','Future'],10))
+
+
 """
-@app.route('/', methods = ["GET","POST"])
-def index():
-    #if request.method == "POST":
-        #artists = request.form.get('your_artist')
-        #print(artists)
-    return render_template('index.html')"""
-
+app = Flask(__name__)
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -20,7 +20,7 @@ def index():
 
 if __name__ =='__main__':
     app.run(debug=True)
-
+"""
 
 """
 @app.route('/', methods = ["GET","POST"]) 

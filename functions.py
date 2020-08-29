@@ -6,7 +6,8 @@ from sklearn.preprocessing import OrdinalEncoder
 import seaborn as sns
 from sklearn.preprocessing import StandardScaler
 from sklearn.neighbors import NearestNeighbors
-
+import pickle
+import joblib
 
 data = pd.read_csv('Data/SpotifyData.csv')
 
@@ -44,6 +45,13 @@ def model(df):
     return model_knn
 
 model_knn = model(df)
+
+def serializeModel(model, name="recommenderModel"):
+    """Making model accessible on the backend Flask app"""
+    with open(name, 'wb') as f:
+        pickle.dump(model, f)
+
+serializeModel(model_knn)
 
 def processGenre(genre):
     """Process Genre from front-end and encode for model to understand"""
@@ -88,4 +96,4 @@ def getPredictions(genre, language, favorite_artists, playlistSize):
     playlist = playlist.drop(['ContainsArtist','popularity','release_year'], axis=1)
     return playlist.head(playlistSize)
 
-print(getPredictions("Rap","English",['Eminem','Meek Mill','Future'],10))
+#print(getPredictions("Rap","English",['Eminem','Meek Mill','Future'],10))
