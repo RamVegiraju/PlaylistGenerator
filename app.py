@@ -26,7 +26,10 @@ def getvalue():
     languageUser = str(request.form['language'])
     playlistSizeUser = int(request.form['playlistsize'])
     recommendations = getPredictions(genreUser, languageUser,artistUser, playlistSizeUser)
-    return str(artistUser)
+    #return str(artistUser)
+    #return artistUser
+    #return render_template('table.html',  tables=[recommendations.to_html(classes='data', header="true")])
+    return render_template('table.html',  tables=[recommendations.to_html(classes='data')], titles=recommendations.columns.values)
 
 if __name__ =='__main__':
     app.run(debug=True)
