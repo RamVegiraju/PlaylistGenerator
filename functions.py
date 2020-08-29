@@ -100,4 +100,4 @@ def getPredictions(genre, language, favorite_artists, playlistSize):
     #playlist = playlist.to_dict()
     return playlist
 
-print(getPredictions("Rap","English",['Eminem','Meek Mill','Future'],10))
+print(getPredictions("Rap","English",['Eminem','Meek Mill'],10))

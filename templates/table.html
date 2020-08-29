@@ -3,8 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <style>
+        html, body {
+            height: 100%;
+        }
+
+        html {
+            display: table;
+            margin: auto;
+        }
+
+        body {
+            display: table-cell;
+            vertical-align: middle;
+        }
+    </style>
 </head>
-<body>
+<body style="background-color: lightgrey;">
+    <h1>Top Recommendations</h1>
+    <p>Will be adding functionality to generate a Spotify URL with album.</p>
 
 {% for table in tables %}
             {{titles[loop.index]}}
