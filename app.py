@@ -1,7 +1,13 @@
-#Main factors we are evaluating is release_year, genre/mood, artist, popularity to determine the song that we will output
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfTransformer
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import StandardScaler
+from flask import Flask, request, jsonify, render_template
+from flaskext.markdown import Markdown
+import requests
+import pandas as pd
+import numpy as np
+
+
+@app.route('/', methods = ["GET","POST"]) 
+def index():
+    if request.method == "POST":
+        input_text = request.form.get('url')
+        print("This is a test right now.")
+    return render_template("index.html")
